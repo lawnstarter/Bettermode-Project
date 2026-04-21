@@ -37,7 +37,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 11 | Write + publish: Long grass — how to report it, document it, why photos matter | Field guide post | P1 | ⬜ Not started |
 | 12 | Write + publish: When the customer cancels on you — what to do right now | Field guide post | P1 | ⬜ Not started |
 | 13 | Write + publish: Unresponsive customer — step by step | Field guide post | P1 | ⬜ Not started |
-| 14 | Write + publish: Payment questions — timing, breakdowns, where to look | Field guide post | P2 | ⬜ Not started |
+| 14 | Write + publish: Payment questions — timing, breakdowns, where to look | Field guide post | P2 | ✅ Done |
 | 15 | Write + publish: What actually affects your completion rate | Field guide post | P2 | ⬜ Not started |
 | 16 | Alert support managers when each Field Guide post goes live (so they can link in tickets) | Slack message | — | ⬜ Not started |
 
