@@ -4,28 +4,9 @@ Ready-to-send messages for the human-dependent pre-work tasks. Copy, adjust tone
 
 ---
 
-## Task 1 — Zendesk Pull (Katherine pulls directly)
+## Task 1 — ✅ Complete (no pull needed)
 
-Pull spec — use these exact filters in Zendesk:
-
-**Date range:** Last 6 months (rolling)
-**Requester type:** Pro (not customer)
-**Pro tenure filter:** Created date minus Pro activation date ≤ 60 days
-**Group by:** Tag or ticket category
-
-**Categories to isolate (use tags or keyword search if no category field):**
-
-| Category | Keywords / Tags to search |
-|----------|--------------------------|
-| Tier / rating confusion | "tier", "score", "rating", "completion rate", "why did my", "Blue", "Intro", "Red" |
-| Long grass | "long grass", "grass height", "over 9", "long grass fee", "LG report" |
-| Payment / payout | "payout", "payment", "not paid", "pay", "deposit", "Wednesday", "direct deposit" |
-| Unresponsive customer | "unresponsive", "no answer", "can't reach", "customer not responding" |
-| Customer cancellation request | "wants to cancel", "customer cancel", "told me to cancel", "doesn't want service" |
-
-**Output needed:** Ticket count per category. No individual ticket details required.
-
-**Save results to:** `data/zendesk-new-pro-baseline.md` in this repo (see template below).
+Covered by Matt's retention discovery doc. Full breakdown in `data/zendesk-new-pro-baseline.md`.
 
 ---
 
