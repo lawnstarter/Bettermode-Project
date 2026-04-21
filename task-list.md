@@ -50,8 +50,8 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | # | Task | Format | Priority | Status |
 |---|------|--------|----------|--------|
 | 17 | Write + pin: Tiers and rewards explainer | Pinned post | P1 | ✅ Done — `drafts/task-17-tiers-and-rewards.md` |
-| 18 | Set up milestone recognition system: Blue attainment celebration posts (opt-in) | Process + template | P2 | ⬜ Not started |
-| 19 | Launch monthly "What's moving your score" Q&A thread (recurring, first instance) | Monthly thread | P2 | ⬜ Not started |
+| 18 | Set up milestone recognition system: Blue attainment celebration posts (opt-in) | Process + template | P2 | ✅ Done — `drafts/task-18-blue-milestone-recognition.md` |
+| 19 | Launch monthly "What's moving your score" Q&A thread (recurring, first instance) | Monthly thread | P2 | ✅ Done — `drafts/task-19-monthly-qa-thread.md` |
 
 ---
 
