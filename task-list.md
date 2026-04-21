@@ -49,7 +49,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Format | Priority | Status |
 |---|------|--------|----------|--------|
-| 17 | Write + pin: "How the tier system actually works" — plain-language explainer | Pinned post | P1 | ⬜ Not started |
+| 17 | Write + pin: "How the tier system actually works" — plain-language explainer | Pinned post | P1 | 🔄 In progress — draft in `drafts/task-17-tier-system-explainer.md` |
 | 18 | Set up milestone recognition system: Blue attainment celebration posts (opt-in) | Process + template | P2 | ⬜ Not started |
 | 19 | Launch monthly "What's moving your score" Q&A thread (recurring, first instance) | Monthly thread | P2 | ⬜ Not started |
 
