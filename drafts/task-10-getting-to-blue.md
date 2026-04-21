@@ -9,9 +9,9 @@
 
 ---
 
-**Getting to Blue — What It Means and How to Get There**
+Getting to Blue — What It Means and How to Get There
 
-*First 60 Days | Post 4 of 4*
+First 60 Days | Post 4 of 4
 
 ---
 
@@ -19,9 +19,9 @@ Blue is the goal for new Pros. Here's what it unlocks, what it requires, and how
 
 ---
 
-**What Blue actually gives you**
+What Blue actually gives you
 
-Blue is the highest tier on the new Pro scale. The most important thing it unlocks: **you see available jobs before Silver engaged Pros do.**
+Blue is the highest tier on the new Pro scale. The most important thing it unlocks: you see available jobs before Silver engaged Pros do.
 
 That's not a small thing. The full queue order puts Blue new Pros ahead of Silver Pros who've been on the platform for years. More jobs seen = more chances to build your schedule.
 
@@ -34,7 +34,7 @@ Intro Pros get text notifications too, but the job queue position is where Blue 
 
 ---
 
-**The three thresholds**
+The three thresholds
 
 All three must be met. Your tier is capped at the weakest one.
 
@@ -44,11 +44,11 @@ All three must be met. Your tier is capped at the weakest one.
 | Completion rate | 55% or higher |
 | Cancellation rate | 8% or lower |
 
-**Review surplus** is the one most new Pros focus on — and it's where the biggest gains happen early. See Post 3 for how the surplus formula works.
+Review surplus is the one most new Pros focus on — and it's where the biggest gains happen early. See Post 3 for how the surplus formula works.
 
 ---
 
-**How fast can you get there?**
+How fast can you get there?
 
 Faster than most Pros expect.
 
@@ -63,7 +63,7 @@ The first 7 jobs are when most Pros accumulate their first 3 ratings. That's the
 
 ---
 
-**The practical checklist**
+The practical checklist
 
 These are the things that consistently separate Pros who reach Blue from those who don't:
 
@@ -78,7 +78,7 @@ That's it. No tricks, no shortcuts. Blue is a consistency score, not a perfectio
 
 ---
 
-**What happens after Blue?**
+What happens after Blue?
 
 Once you've been on the platform 3 months AND have 20+ mowing jobs, you transition to the engaged Pro scale: Platinum, Gold, Silver, Bronze. Average rating replaces review surplus, and tier updates quarterly instead of weekly.
 
@@ -86,13 +86,13 @@ Blue puts you in a strong position for that transition. Pros who reach Blue are 
 
 ---
 
-**Your one action**
+Your one action
 
 Look at your service area in the app. Is it set wide enough to give you access to available jobs? New Pros sometimes set their area too narrow and then wonder why jobs aren't coming in. A 15–20 mile radius from where you're based is a reasonable starting point for most markets.
 
 ---
 
-*What's the biggest thing standing between you and Blue right now? Post it below.*
+What's the biggest thing standing between you and Blue right now? Post it below.
 
 ---
 

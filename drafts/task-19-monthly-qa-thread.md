@@ -11,7 +11,7 @@ Ready to post. Copy and paste.
 
 ---
 
-**What's moving your score this month? — April Q&A**
+What's moving your score this month? — April Q&A
 
 Every month I'm opening a thread for metrics questions — things you're seeing in your Performance screen that aren't making sense, trends you've noticed, situations where your numbers did something unexpected.
 
@@ -19,7 +19,7 @@ No question is too basic. The metrics are genuinely confusing, and most Pros are
 
 ---
 
-**To get us started, a few things I'm curious about:**
+To get us started, a few things I'm curious about:
 
 - If you reached Blue recently (or came close) — what do you think moved it?
 - If your completion rate dropped and you're not sure why — what happened?
@@ -29,7 +29,7 @@ Drop it below. I'll answer directly, and if a question is coming up a lot I'll w
 
 ---
 
-*New to the community? Start with the First 60 Days series for the basics on how your metrics work.*
+New to the community? Start with the First 60 Days series for the basics on how your metrics work.
 
 ---
 
@@ -37,13 +37,13 @@ Drop it below. I'll answer directly, and if a question is coming up a lot I'll w
 
 ---
 
-**What's moving your score this month? — [Month] Q&A**
+What's moving your score this month? — [Month] Q&A
 
 Monthly metrics thread — bring your questions, weird numbers, and anything in your Performance screen that's not making sense.
 
 ---
 
-**[Optional: add a timely prompt specific to the month]**
+[Optional: add a timely prompt specific to the month]
 
 Examples:
 - April/May: "Peak season is ramping up — are your completion numbers holding up with the higher volume?"
@@ -53,7 +53,7 @@ Examples:
 
 ---
 
-*[Link to current tier and rewards post] | [Link to completion rate Field Guide post]*
+[Link to current tier and rewards post] | [Link to completion rate Field Guide post]
 
 Drop questions below and I'll answer directly.
 

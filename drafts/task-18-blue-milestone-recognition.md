@@ -9,27 +9,27 @@
 
 When a new Pro reaches Blue tier, we recognize it publicly in Bettermode. This builds community, reinforces that Blue is achievable, and gives other new Pros a visible signal of what's possible.
 
-Recognition is **opt-in only** — Pros who want to be called out say so. We don't post about someone without their consent.
+Recognition is opt-in only — Pros who want to be called out say so. We don't post about someone without their consent.
 
 ---
 
 ## How the Opt-In Works
 
-**Option A — Post-based opt-in (simplest)**
+Option A — Post-based opt-in (simplest)
 
 Pin a short post in the community (or add a section to the First 60 Days intro post) that says:
-> "Just reached Blue? Comment below with your name and market and I'll give you a shoutout."
+"Just reached Blue? Comment below with your name and market and I'll give you a shoutout."
 
 Pros self-report. You see the comment, verify (quick check in the app or admin), post the recognition.
 
-**Option B — Reply to the First 60 Days series**
+Option B — Reply to the First 60 Days series
 
-At the end of the Post 4 (Getting to Blue), the call-to-action already invites engagement. You can add a line:
-> "Hit Blue? Drop a comment — let's celebrate it."
+At the end of Post 4 (Getting to Blue), the call-to-action already invites engagement. You can add a line:
+"Hit Blue? Drop a comment — let's celebrate it."
 
 Then monitor replies and recognize them in a dedicated post or reply thread.
 
-**Recommended for now: Option A or B.** No form needed. Low-overhead. Can be automated later if volume warrants it.
+Recommended for now: Option A or B. No form needed. Low-overhead. Can be automated later if volume warrants it.
 
 ---
 
@@ -39,7 +39,7 @@ Use this when a Pro opts in. Customize the bracket fields.
 
 ---
 
-**[Pro first name] just hit Blue — [market]**
+[Pro first name] just hit Blue — [market]
 
 Congrats to [Name] in [City, State] for reaching Blue tier.
 
@@ -51,7 +51,7 @@ If you're still working toward it: [link to Getting to Blue post — task 10].
 
 ---
 
-**Notes on tone:**
+Notes on tone:
 - Keep it short — 3–5 sentences max
 - Use first name only unless the Pro shares their full name publicly
 - Don't publish market-specific details (earnings, job count) unless the Pro shares them themselves

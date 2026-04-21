@@ -9,9 +9,9 @@
 
 ---
 
-**Your First Service — Photos, Long Grass, Completing Correctly**
+Your First Service — Photos, Long Grass, Completing Correctly
 
-*First 60 Days | Post 2 of 4*
+First 60 Days | Post 2 of 4
 
 ---
 
@@ -19,7 +19,7 @@ Your first service sets the baseline for everything that follows. Here's what to
 
 ---
 
-**Before you start: check the job details**
+Before you start: check the job details
 
 Open the job in your app and read through:
 - Property notes from the customer
@@ -30,7 +30,7 @@ Don't assume. What's in the app is your guide.
 
 ---
 
-**When you arrive: take photos first**
+When you arrive: take photos first
 
 Before you touch anything:
 1. Take photos of the full property — front, back, sides
@@ -41,19 +41,19 @@ This habit protects you on every job, not just the first one. The most common di
 
 ---
 
-**Check the grass height**
+Check the grass height
 
 Before you start mowing:
 
-- **Under 9 inches:** Mow normally.
-- **9–15 inches:** You can complete the job AND claim a long grass fee. Report it through the app (Job Details → Other → Long Grass) before you start. You cannot add the report after you mark complete.
-- **Over 15 inches:** Submit a quote before doing any work. The customer needs to accept it first.
+- Under 9 inches: Mow normally.
+- 9–15 inches: You can complete the job AND claim a long grass fee. Report it through the app (Job Details → Other → Long Grass) before you start. You cannot add the report after you mark complete.
+- Over 15 inches: Submit a quote before doing any work. The customer needs to accept it first.
 
 If you're not sure, measure or estimate before you touch anything. On your first service, the grass is more likely to be at or near long grass territory than on recurring visits — customers often let it go before the first mow.
 
 ---
 
-**While you're working**
+While you're working
 
 - Complete what's in the scope. Check the service detail in the app for what's included.
 - If you find an issue mid-job (locked gate you didn't know about, a section you can't access), report it through the app — don't just leave. Documenting the issue protects your completion rate.
@@ -61,7 +61,7 @@ If you're not sure, measure or estimate before you touch anything. On your first
 
 ---
 
-**When you're done: mark complete correctly**
+When you're done: mark complete correctly
 
 1. Take after photos — full property, same angles as your before photos
 2. Mark the job complete in the app
@@ -71,13 +71,13 @@ The mark-complete step is what triggers your payment. Don't rush it, but don't l
 
 ---
 
-**Your one action for this post**
+Your one action for this post
 
 Turn on GPS before your next job — not when you arrive, before you leave. GPS must be active at the property to qualify for trip fees, and location data is attached to your photos. Make it a habit from job one.
 
 ---
 
-*Something come up on your first service that you weren't sure how to handle? Post it here — this is what the community is for.*
+Something come up on your first service that you weren't sure how to handle? Post it here — this is what the community is for.
 
 ---
 
