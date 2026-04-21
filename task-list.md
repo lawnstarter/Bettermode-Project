@@ -1,19 +1,19 @@
 # Bettermode Q2 2026 — Task List
 
-Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). Data-pull tickets have linked Jira issues.
+Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This repo is the source of truth — update Status as work moves.
 
 ---
 
-## Phase 0 — Pre-Work (blockers: complete before writing any content)
+## Phase 0 — Pre-Work (blockers: complete before publishing any content)
 
-| # | Task | Owner | Jira | Status |
-|---|------|-------|------|--------|
-| 1 | Pull Zendesk: new-Pro tickets (<60 days) by category — tier/rating, long grass, payment, unresponsive customer | Support team (Nicole Ross / Patrick Mahan) | TBD | ⬜ Not started |
-| 2 | Pull data: % of new Pros reaching job 7 in current cohort | Data team (Marcela Lima / Matt Smith) | TBD | ⬜ Not started |
-| 3 | Pull Bettermode baseline: active Pro count + current post view rate | Katherine | — | ⬜ Not started |
-| 4 | Ask Eric Fuentes to nominate 2–3 top PH agents for Pro support sentiment interviews | Katherine | — | ⬜ Not started |
-| 5 | Schedule 30-min conversation with Joseph Currens — escalation patterns on Pro tickets | Katherine | — | ⬜ Not started |
-| 6 | Connect with Daisy Lebleu — get her Pro question taxonomy from AI prompt work | Katherine | — | ⬜ Not started |
+| # | Task | Owner | Status |
+|---|------|-------|--------|
+| 1 | Pull Zendesk: new-Pro tickets (<60 days) by category — tier/rating, long grass, payment, unresponsive customer | Nicole Ross / Patrick Mahan | ⬜ Not started |
+| 2 | Pull data: % of new Pros reaching job 7 in current cohort | Marcela Lima / Matt Smith | ⬜ Not started |
+| 3 | Pull Bettermode baseline: active Pro count + current post view rate | Katherine | ⬜ Not started |
+| 4 | Ask Eric Fuentes to nominate 2–3 top PH agents for Pro support sentiment interviews | Katherine | ⬜ Not started |
+| 5 | Schedule 30-min conversation with Joseph Currens — escalation patterns on Pro tickets | Katherine | ⬜ Not started |
+| 6 | Connect with Daisy Lebleu — get her Pro question taxonomy from AI prompt work | Katherine | ⬜ Not started |
 
 ---
 
@@ -26,7 +26,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). Data
 | 9 | Write + publish: "Understanding your tier score — what moves it, what doesn't" | Short post + 1 action | P1 | ⬜ Not started |
 | 10 | Write + publish: "Getting to Blue — what it means and how to get there" | Short post + 1 action | P1 | ⬜ Not started |
 
-*Dependency: Tickets 1 and 2 must be complete before publishing. Baselines needed for measurement.*
+*Dependency: Tasks 1 and 2 must be complete before publishing. Baselines needed for measurement.*
 
 ---
 
@@ -39,9 +39,9 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). Data
 | 13 | Write + publish: Unresponsive customer — step by step | Field guide post | P1 | ⬜ Not started |
 | 14 | Write + publish: Payment questions — timing, breakdowns, where to look | Field guide post | P2 | ⬜ Not started |
 | 15 | Write + publish: What actually affects your completion rate | Field guide post | P2 | ⬜ Not started |
-| 16 | Alert support managers when each Field Guide post goes live (link in tickets) | Slack message | — | ⬜ Not started |
+| 16 | Alert support managers when each Field Guide post goes live (so they can link in tickets) | Slack message | — | ⬜ Not started |
 
-*Dependency: Ticket 1 (Zendesk pull) informs priority order. Publish sequence can begin before data is back.*
+*Dependency: Task 1 (Zendesk pull) informs priority order. Drafting can begin before data is back.*
 
 ---
 
@@ -59,13 +59,13 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). Data
 
 | # | Task | Notes | Status |
 |---|------|-------|--------|
-| 20 | Set up tracking: Zendesk ticket volume by category (monthly snapshot) | Depends on Ticket 1 baseline | ⬜ Not started |
-| 21 | Set up tracking: Bettermode views per post (weekly export) | Depends on Ticket 3 baseline | ⬜ Not started |
+| 20 | Set up tracking: Zendesk ticket volume by category (monthly snapshot) | Depends on Task 1 baseline | ⬜ Not started |
+| 21 | Set up tracking: Bettermode views per post (weekly export) | Depends on Task 3 baseline | ⬜ Not started |
 
 ---
 
 ## Notes
 
-- **P1 content (tickets 7–13, 17)** can be drafted in parallel with Phase 0 — just can't publish until baselines are set.
-- **Jira tickets** for data pulls (tickets 1–2) are tracked in the Jira column above. Update this file with ticket numbers once created.
+- **P1 content (tasks 7–13, 17)** can be drafted in parallel with Phase 0 — just can't publish until baselines are set.
 - All content drafts live in this repo before being published to Bettermode.
+- Update the Status column as tasks move: ⬜ Not started → 🔄 In progress → ✅ Done
