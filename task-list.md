@@ -10,7 +10,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 |---|------|-------|--------|
 | 1 | ~~Pull Zendesk~~ Extracted from Matt's retention discovery (`docs/swim-lanes/retention/research/2026-03-26-support-data-findings.md`) | Katherine | ✅ Done |
 | 2 | ~~Pull data~~ Already in Brain: 56.2% of new Pros reach job 7 (11,685/20,796) — `docs/swim-lanes/retention/cold-start-blue/rating-rate-first-10.md` | Katherine | ✅ Done |
-| 3 | Pull Bettermode baseline: active Pro count + current post view rate | Katherine | ⬜ Not started |
+| 3 | Pull Bettermode baseline: active Pro count + current post view rate | Katherine | ✅ Done — `data/bettermode-baseline.md` |
 | 4 | Ask Eric Fuentes to nominate 2–3 top PH agents for Pro support sentiment interviews | Katherine | ⬜ Not started |
 | 5 | Schedule 30-min conversation with Joseph Currens — escalation patterns on Pro tickets | Katherine | ⬜ Not started |
 | 6 | Connect with Daisy Lebleu — get her Pro question taxonomy from AI prompt work | Katherine | ⬜ Not started |
