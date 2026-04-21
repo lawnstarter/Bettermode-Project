@@ -8,7 +8,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Owner | Status |
 |---|------|-------|--------|
-| 1 | Pull Zendesk: new-Pro tickets (<60 days) by category — tier/rating, long grass, payment, unresponsive customer | Nicole Ross / Patrick Mahan | ⬜ Not started |
+| 1 | Pull Zendesk: new-Pro tickets (<60 days) by category — tier/rating, long grass, payment, unresponsive customer | Katherine | ⬜ Not started |
 | 2 | Pull data: % of new Pros reaching job 7 in current cohort | Marcela Lima / Matt Smith | ⬜ Not started |
 | 3 | Pull Bettermode baseline: active Pro count + current post view rate | Katherine | ⬜ Not started |
 | 4 | Ask Eric Fuentes to nominate 2–3 top PH agents for Pro support sentiment interviews | Katherine | ⬜ Not started |

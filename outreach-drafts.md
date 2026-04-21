@@ -4,22 +4,28 @@ Ready-to-send messages for the human-dependent pre-work tasks. Copy, adjust tone
 
 ---
 
-## Task 1 — Zendesk Data Pull
-**To:** Nicole Ross or Patrick Mahan
-**Ask:** One-time data pull, no ongoing involvement needed
+## Task 1 — Zendesk Pull (Katherine pulls directly)
 
-> Hey [Nicole/Patrick] — I'm building out a data-backed content strategy for Bettermode and need one data point to set my baselines. Can you or someone on the team pull the following from Zendesk?
->
-> **Pro support tickets from the last 6 months, filtered to Pros in their first 60 days on the platform, grouped by category:**
-> - Tier/rating confusion ("why did my score drop", "how does my tier work")
-> - Long grass disputes or questions
-> - Payment/payout questions
-> - Unresponsive customer situations
-> - Customer cancellation requests
->
-> Just ticket volume by category is fine — no need for individual ticket details. The goal is to know which of these is highest-volume so I can prioritize content that deflects the most tickets.
->
-> Happy to jump on a quick call if it's easier to talk through. Thanks!
+Pull spec — use these exact filters in Zendesk:
+
+**Date range:** Last 6 months (rolling)
+**Requester type:** Pro (not customer)
+**Pro tenure filter:** Created date minus Pro activation date ≤ 60 days
+**Group by:** Tag or ticket category
+
+**Categories to isolate (use tags or keyword search if no category field):**
+
+| Category | Keywords / Tags to search |
+|----------|--------------------------|
+| Tier / rating confusion | "tier", "score", "rating", "completion rate", "why did my", "Blue", "Intro", "Red" |
+| Long grass | "long grass", "grass height", "over 9", "long grass fee", "LG report" |
+| Payment / payout | "payout", "payment", "not paid", "pay", "deposit", "Wednesday", "direct deposit" |
+| Unresponsive customer | "unresponsive", "no answer", "can't reach", "customer not responding" |
+| Customer cancellation request | "wants to cancel", "customer cancel", "told me to cancel", "doesn't want service" |
+
+**Output needed:** Ticket count per category. No individual ticket details required.
+
+**Save results to:** `data/zendesk-new-pro-baseline.md` in this repo (see template below).
 
 ---
 
