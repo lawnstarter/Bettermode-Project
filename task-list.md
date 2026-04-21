@@ -59,8 +59,8 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Notes | Status |
 |---|------|-------|--------|
-| 20 | Set up tracking: Zendesk ticket volume by category (monthly snapshot) | Depends on Task 1 baseline | ⬜ Not started |
-| 21 | Set up tracking: Bettermode views per post (weekly export) | Depends on Task 3 baseline | ⬜ Not started |
+| 20 | Set up tracking: Zendesk ticket volume by category (monthly snapshot) | Depends on Task 1 baseline | ✅ Done — `data/tracking-zendesk-monthly.md` |
+| 21 | Set up tracking: Bettermode views per post (weekly export) | Depends on Task 3 baseline | ✅ Done — `data/tracking-bettermode-weekly.md` |
 
 ---
 
