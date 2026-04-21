@@ -26,10 +26,12 @@ This is important because you should not just drop the customer yourself. Droppi
 **What to do — step by step**
 
 1. **Screenshot or document the customer's message** — if they told you through the app, the message is already logged. If they called or texted outside the app, take a screenshot.
-2. **Open the app → tap the magnifying glass (Customer Search)** — search for the customer by name, email, or address.
-3. **Select the customer → tap Submit Pause/Cancel Request** — this routes the cancellation to LawnStarter to process. Do not manually drop the property.
-4. **Don't complete the job** — if the customer has explicitly said they want to cancel, do not mow.
-5. **Contact support if you're unsure** — if the customer is unclear about whether they want to pause one service or cancel entirely, report it and let support sort it out.
+2. **Open the app → Today's Jobs → select the customer**
+3. **Tap Other → Customer Requested Pause or Cancel**
+4. **Answer what the customer requested** — "Pause until spring" or "Cancel entirely." Add any context in the notes field.
+5. **Tap Submit** — this sends the customer a confirmation request. It does NOT automatically cancel or remove the job from your schedule. LawnStarter processes it once the customer confirms.
+6. **Don't complete the job** — if the customer has explicitly said they want to cancel, do not mow.
+7. **Contact support if you're unsure** — if the customer is unclear about whether they want to pause one service or cancel entirely, report it and let support sort it out.
 
 ---
 
@@ -45,11 +47,11 @@ The takeaway: a customer cancellation doesn't hurt your cancellation rate, but i
 
 ---
 
-**Trip fees — when you're eligible and when you're not**
+**Trip fees — one thing to know if you're already at the property**
 
-If the customer gave you advance notice before you drove out, you are **not** eligible for a trip fee. Trip fees are for situations where you show up to a property and are blocked — no notice was given.
+If the customer gave you advance notice before you drove out, you are **not** eligible for a trip fee. Trip fees apply when you show up with no warning and can't complete the service.
 
-If the customer tells you to cancel on the same day, at the last minute, and you're already at the property or on your way: document your GPS arrival ping and contact support. That's a different situation, closer to an unresponsive customer scenario.
+If you're already at the property when the customer tells you to leave: **skip the job first before submitting the pause/cancel request** — this secures your trip fee eligibility. The path is: Today's Jobs → Customer → Other → "Customer told me to leave" → "To cancel or pause future services." Your GPS must be pinged on arrival for the trip fee to apply.
 
 ---
 
