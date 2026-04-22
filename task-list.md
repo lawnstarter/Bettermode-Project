@@ -55,7 +55,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 15 | Write + publish: What actually affects your completion rate | Field guide post | P2 | ✅ Done — `drafts/task-15-completion-rate.md` |
 | 16 | Create + maintain Zendesk reference doc: maps ticket type to Bettermode post link — update each time a new post goes live | Zendesk pinned doc | — | ⬜ Not started |
 
-*Dependency: Task 1 (Zendesk pull) informs priority order. Drafting can begin before data is back.*
+*Zendesk reference doc (`drafts/zendesk-bettermode-reference.md`) must be updated with live links each time a Field Guide post is published.*
 
 ---
 
@@ -145,6 +145,10 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 ## Notes
 
-- **P1 content (tasks 7–13, 17)** can be drafted in parallel with Phase 0 — just can't publish until baselines are set.
+- **Phase 1 space setup (7a–7c) must come before publishing any First 60 Days content (7–10).** Design the space first, then activate, then publish.
+- **Braze trigger (7d–7e)** is a dependency on Callie — confirm feasibility before building anything.
+- **Field Guide posts (11–15)** are drafted and ready. Update the Zendesk reference doc (`drafts/zendesk-bettermode-reference.md`) with the live link each time one is published.
+- **AMA confirmations (22–25)** gate their respective threads — nothing goes live without the participant's approval on their intro draft.
+- **Pool Pro space (34–39)** is discovery-first — do not build before tasks 34–37 are complete.
 - All content drafts live in this repo before being published to Bettermode.
 - Update the Status column as tasks move: ⬜ Not started → 🔄 In progress → ✅ Done

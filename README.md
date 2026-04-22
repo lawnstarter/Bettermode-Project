@@ -18,6 +18,7 @@ Working files for the LawnStarter Pro community strategy on Bettermode. This rep
 | High-Frequency Problem Scenarios | 40% of schedules hit a problem; Pros have no proactive guidance |
 | Tier System Clarity | Rating/tier confusion is the #3 support ticket type |
 | Expert Access Rotation (AMA Series) | HQ drives 32% of community activity; top topics need trusted expert voices |
+| Pool Pro Space | Pool Pros have no dedicated community home; questions and sentiment live only on Facebook |
 
 ---
 
@@ -27,11 +28,14 @@ Content ready for review or confirmation before publishing.
 
 | File | What It Is |
 |------|------------|
-| `drafts/ama-steve-ceo.md` | Async AMA — Steve (CEO). Async continuation of his prior live AMA. |
-| `drafts/ama-product-engineering.md` | Async AMA — Aleah (PE). Focused on metrics and how the platform works. |
-| `drafts/ama-pro-peer.md` | Async AMA — Gold/Platinum Pro. Peer credibility for new Pros. First choice: Scott Culala. |
-| `drafts/ama-marketing.md` | Async AMA — Marketing rep. Google reviews, GBP, off-platform growth. |
-| `drafts/task-07` through `task-19` | First 60 Days series, Field Guide posts, tier explainers, milestone recognition |
+| `drafts/ama-steve-ceo.md` | Async AMA — Steve (CEO). Month 4. Async continuation of his prior live AMA. |
+| `drafts/ama-product-engineering.md` | Async AMA — Aleah (PE). Month 1. Focused on metrics and how the platform works. |
+| `drafts/ama-pro-peer.md` | Async AMA — Gold/Platinum Pro. Month 2. Peer credibility for new Pros. First choice: Scott Culala. |
+| `drafts/ama-marketing.md` | Async AMA — Marketing rep. Month 3. Google reviews, GBP, off-platform growth. |
+| `drafts/task-07` through `task-10` | First 60 Days series — drafts ready to publish once space is live |
+| `drafts/task-11` through `task-15` | Field Guide posts — problem scenario content for Pros |
+| `drafts/task-17` through `task-19` | Tier explainer, Blue milestone recognition, monthly Q&A thread |
+| `drafts/zendesk-bettermode-reference.md` | Zendesk internal reference doc — maps ticket type to Bettermode post link. Draft for Matt's review. |
 
 ---
 
@@ -54,4 +58,4 @@ Reference files pulled from community analytics and internal research.
 
 ## Task List
 
-**`task-list.md`** — Full Q2 task list (21 items). Tracks status of all content, data pulls, and outreach tasks.
+**`task-list.md`** — Full Q1–Q2 task list (39 items across 6 phases). Tracks status of all content, space setup, AMA series, Pool Pro discovery, and measurement tasks.
