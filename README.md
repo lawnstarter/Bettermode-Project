@@ -18,7 +18,7 @@ Working files for the LawnStarter Pro community strategy on Bettermode. This rep
 | High-Frequency Problem Scenarios | 40% of schedules hit a problem; Pros have no proactive guidance |
 | Tier System Clarity | Rating/tier confusion is the #3 support ticket type |
 | Expert Access Rotation (AMA Series) | HQ drives 32% of community activity; top topics need trusted expert voices |
-| Pool Pro Space | Pool Pros have no dedicated community home; questions and sentiment live only on Facebook |
+| Pool Pro Space | Pool Pros have no dedicated community home; questions and sentiment live only on Facebook. Jeff Herman's team is producing Pool Pro content to feature in the space. |
 
 ---
 
