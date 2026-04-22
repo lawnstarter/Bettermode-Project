@@ -61,6 +61,49 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 ---
 
+## Phase 5 — Focus Area 4: AMA Series
+
+### Confirm Participants
+
+| # | Task | Notes | Status |
+|---|------|-------|--------|
+| 22 | Confirm Steve — brief on current community tensions, get approval on his intro draft | Prior live AMA gives instant credibility — reference it in the thread | ⬜ Not started |
+| 23 | Confirm Aleah — brief on likely question types, get approval on her intro draft | Expected topics: metrics, Wishlist items, app flow gaps, job queue logic | ⬜ Not started |
+| 24 | Identify + confirm marketing rep — brief on GBP/Google reviews topics, get approval on intro draft | Topics: Google Business Profile, asking for reviews, local SEO, off-platform reputation | ⬜ Not started |
+| 25 | Confirm Pro peer participant — brief on likely questions, get approval on intro draft | First choice: Scott Culala (490 all-time replies, already acts as mentor organically); backup: Arely Elrod | ⬜ Not started |
+
+### Month 1 — Steve (CEO)
+
+| # | Task | Format | Status |
+|---|------|--------|--------|
+| 26 | Post Steve AMA thread | Ask the Community — `drafts/ama-steve-ceo.md` | ⬜ Not started |
+| 27 | Compile Steve Q&As into FAQ post | Pro Academy — title: "You Asked, Steve Answered — [Month]" | ⬜ Not started |
+
+### Month 2 — Aleah (Product & Engineering)
+
+| # | Task | Format | Status |
+|---|------|--------|--------|
+| 28 | Post Aleah AMA thread | Ask the Community — `drafts/ama-product-engineering.md` | ⬜ Not started |
+| 29 | Compile Aleah Q&As into FAQ post | Pro Academy — title: "You Asked, We Answered — [Month] with Aleah" | ⬜ Not started |
+
+### Month 3 — Pro Peer (Gold/Platinum)
+
+| # | Task | Format | Status |
+|---|------|--------|--------|
+| 30 | Post Pro Peer AMA thread | Ask the Community — `drafts/ama-pro-peer.md` | ⬜ Not started |
+| 31 | Compile Pro Peer Q&As into FAQ post | Pro Academy — title: "You Asked, They Answered — [Month] with [Pro], [Tier] Pro" | ⬜ Not started |
+
+### Month 4 — Marketing Rep
+
+| # | Task | Format | Status |
+|---|------|--------|--------|
+| 32 | Post Marketing AMA thread | Ask the Community — `drafts/ama-marketing.md` | ⬜ Not started |
+| 33 | Compile Marketing Q&As into FAQ post | Pro Academy — title: "You Asked, We Answered — [Month] with [rep], Marketing" | ⬜ Not started |
+
+*Dependencies: Tasks 22–25 (confirmations) must be complete before their respective thread goes live. Each compile task (27, 29, 31, 33) follows its thread after 7–10 days or when activity slows.*
+
+---
+
 ## Notes
 
 - **P1 content (tasks 7–13, 17)** can be drafted in parallel with Phase 0 — just can't publish until baselines are set.
