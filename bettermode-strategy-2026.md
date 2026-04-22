@@ -15,6 +15,20 @@ This plan covers five focus areas chosen because the data says they move the nee
 
 ---
 
+## Swim Lane Alignment
+
+This strategy sits primarily within the **Retention** swim lane. The 2026 retention rock is increasing the share of jobs performed by top-tier Pros (Platinum, Gold, Blue). Every focus area here supports that by helping Pros understand the tier system, navigate problems correctly, and stay engaged on the platform.
+
+| Focus Area | Primary Swim Lane | Secondary | Why |
+|------------|------------------|-----------|-----|
+| New Pro Success (0–60 days) | Retention | — | Getting new Pros to Blue faster directly increases top-tier job share |
+| High-Frequency Problem Scenarios | Retention | — | Pros who handle disputes and cancellations correctly protect their score and the customer relationship |
+| Tier System Clarity | Retention | — | Reduces defensive behavior in lower-tier Pros; increases coachable-middle conversion to Blue |
+| Expert Access Rotation (AMA Series) | Retention | — | Builds the Pro trust and engagement that keeps quality Pros active on the platform |
+| Pool Pro Space | Non-Mowing Revenue | Retention | Pool Pro tier quality (Platinum/Gold/Blue share of pool jobs) is the 2026 non-mowing rock; community support for Pool Pros drives that |
+
+---
+
 ## The Lens
 
 > *"What problems are Pros bringing to us that we can solve through Bettermode?"*
