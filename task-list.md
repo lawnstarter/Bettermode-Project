@@ -104,6 +104,28 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 ---
 
+## Phase 6 — Focus Area 5: Pool Pro Space
+
+### Discovery
+
+| # | Task | Notes | Status |
+|---|------|-------|--------|
+| 34 | Meet with Trent M. — understand Pool Pro experience, pain points, questions | Trent is active in the main community (10 posts); first voice to consult before building anything | ⬜ Not started |
+| 35 | Pull sentiment from Will and Shannon — what themes and complaints come up most on the Pool Pro Facebook page | Facebook page is LawnStarter-run but not connected to Bettermode; this is untapped signal | ⬜ Not started |
+| 36 | Confirm with Aleah (PE): do pool Pro metrics work differently from lawn care Pro metrics? | Answer determines whether tier/metrics content needs to be written separately or can reuse existing posts | ⬜ Not started |
+| 37 | Review hidden Bettermode space — confirm what needs to change to activate it for Pool Pros | Check space settings, visibility, membership rules in Bettermode admin | ⬜ Not started |
+
+### Build (pending discovery)
+
+| # | Task | Notes | Status |
+|---|------|-------|--------|
+| 38 | Activate and configure the Pool Pro space in Bettermode | Scope determined by tasks 34–37 | ⬜ Not started |
+| 39 | Write initial Pool Pro content — topics TBD from discovery | At minimum: welcome post, one field guide equivalent, metrics/tier clarity if needed | ⬜ Not started |
+
+*Dependencies: Tasks 34–37 must be complete before 38–39. Do not build before discovery is done.*
+
+---
+
 ## Notes
 
 - **P1 content (tasks 7–13, 17)** can be drafted in parallel with Phase 0 — just can't publish until baselines are set.

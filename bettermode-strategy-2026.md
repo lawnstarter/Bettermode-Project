@@ -203,6 +203,46 @@ The dominant unresolved topics get addressed by the people best positioned to an
 
 ---
 
+## Focus Area 5: Pool Pro Space
+
+### The Problem
+
+Pool Pros are a distinct service category with their own workflow, seasonality, and likely their own set of questions — but right now they land in the same community as lawn care Pros with no content built for them. There is a hidden space in Bettermode that can be activated for this. Before building anything, the discovery gap needs to close: we don't yet know what Pool Pros are actually asking, how their metrics work, or what frustrations are showing up in the existing LawnStarter-run Facebook page that Will and Shannon manage.
+
+### What I'll Build in Bettermode
+
+A **dedicated Pool Pro space** — activated from the existing hidden space, built out once discovery is complete.
+
+Content will be determined by what comes out of the discovery phase, but likely includes:
+- A Pool Pro equivalent of the First 60 Days series
+- Field Guide posts for pool-specific problem scenarios
+- Metrics and tier clarity content if pool Pro metrics differ from lawn care
+
+### Discovery First — What I Need to Know Before Building
+
+| Question | How to Answer |
+|----------|--------------|
+| What are Pool Pros actually asking and frustrated by? | Meeting with Trent M. (active community member, pool Pro) |
+| What themes and complaints come up most on the Facebook page? | Sentiment pull from Will and Shannon |
+| Do pool Pro metrics work differently from lawn care Pro metrics? | Confirm with Aleah or product team |
+| What does the hidden space look like and what needs to change to activate it? | Review space settings in Bettermode admin |
+
+### Who Should Be Involved
+
+- **Trent M.** — Pool Pro, already active in the main community (10 posts, top contributor); first voice to consult
+- **Will and Shannon** — manage the LawnStarter Pool Pro Facebook page; source of raw sentiment data that isn't captured anywhere in Bettermode yet
+- **Aleah (PE)** — confirm whether pool Pro metrics are distinct from lawn care metrics before any tier/metrics content is written
+
+### Expected Outcome
+
+Pool Pros have a space that speaks to their work specifically. Sentiment and questions that currently live only on Facebook have a home in Bettermode — searchable, structured, and connected to support resources.
+
+### How I'll Measure It
+
+Baselines and targets to be set after discovery. Starting metrics will mirror the main community framework: space member count, post views, reply rate.
+
+---
+
 ## What I'm NOT Doing (And Why)
 
 | Idea | Why Not Now |
@@ -233,3 +273,4 @@ I can pull items 1 and 2 from Brain/support data. Item 3 I can pull from Betterm
 | High-Frequency Problem Scenarios | 40% of schedules hit a problem; Pros have no proactive guidance | 3.5% ticket-to-service ratio; 43% cancel rate on first-job issues | Deflect predictable support tickets; protect customer retention |
 | Tier System Clarity | Rating/tier confusion is #3 support ticket; creates defensive Pro behavior | 35% → 63% Blue attainment lift possible in coachable middle | Reduce tier confusion tickets; increase Blue attainment in mid-rated Pros |
 | Expert Access Rotation (AMA Series) | HQ drives 32% of all community activity; dominant topics need trusted expert voices | Metrics: 3 of top 10 posts by replies; 32% admin share of activity | Reduce admin activity share; build searchable library of expert answers on top Pro concerns |
+| Pool Pro Space | Pool Pros have no dedicated community home; questions and sentiment live only on Facebook | Hidden Bettermode space exists but is unactivated; Facebook page is untapped signal | Give Pool Pros a dedicated space grounded in their actual problems |
