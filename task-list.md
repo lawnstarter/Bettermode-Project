@@ -11,6 +11,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 1 | ~~Pull Zendesk~~ Extracted from Matt's retention discovery (`docs/swim-lanes/retention/research/2026-03-26-support-data-findings.md`) | Katherine | ✅ Done |
 | 2 | ~~Pull data~~ Already in Brain: 56.2% of new Pros reach job 7 (11,685/20,796) — `docs/swim-lanes/retention/cold-start-blue/rating-rate-first-10.md` | Katherine | ✅ Done |
 | 3 | Pull Bettermode baseline: active Pro count + current post view rate | Katherine | ✅ Done — `data/bettermode-baseline.md` |
+| 3a | Resolve Zendesk reporting access — confirm whether Katherine can get a direct reporting seat; if not, identify who currently holds access after seat holder changes (Nicole and Patrick may no longer have it) | Katherine → Matt | ⬜ Not started |
 
 ---
 
@@ -73,7 +74,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Notes | Status |
 |---|------|-------|--------|
-| 20 | Set up tracking: Zendesk ticket volume by category (monthly snapshot) | Depends on Task 1 baseline | ✅ Done — `data/tracking-zendesk-monthly.md` |
+| 20 | Set up tracking: Zendesk ticket volume by category (monthly snapshot) | Tracking template done — `data/tracking-zendesk-monthly.md`. Blocked on task 3a (Zendesk access must be confirmed before this can run on a real cadence) | 🔄 Template done, access pending |
 | 21 | Set up tracking: Bettermode views per post (weekly export) | Depends on Task 3 baseline | ✅ Done — `data/tracking-bettermode-weekly.md` |
 
 ---

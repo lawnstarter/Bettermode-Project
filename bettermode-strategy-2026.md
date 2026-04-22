@@ -269,11 +269,13 @@ Baselines and targets to be set after discovery. Starting metrics will mirror th
 
 Before I can set hard baselines on the measurement targets above, I need:
 
-1. **Zendesk ticket data**: Volume of new-Pro tickets (<60 days) by category (tier/rating, long grass, payment, unresponsive customer). One-time pull.
+1. **Zendesk ticket data**: Volume of new-Pro tickets (<60 days) by category (tier/rating, long grass, payment, unresponsive customer). One-time pull, then monthly cadence for ongoing tracking.
 2. **New Pro completion rate at job 7**: What % of the current cohort reaches job 7? This is my baseline for Focus Area 1.
 3. **Bettermode current engagement baseline**: How many active Pros are in Bettermode right now? What's the current post view rate?
 
-I can pull items 1 and 2 from Brain/support data. Item 3 I can pull from Bettermode analytics directly.
+Items 2 and 3 are resolved. Item 3 was pulled from Bettermode analytics directly.
+
+**Zendesk access — unresolved.** Seat holder changes mean it's unclear who currently has reporting access (Nicole and Patrick may no longer have it). Going to Matt as a middleman is not a sustainable process. Preferred path: confirm whether Katherine can get direct Zendesk reporting access. If not, identify who currently holds a reporting seat and establish a standing request process.
 
 ---
 
