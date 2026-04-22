@@ -86,16 +86,16 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | # | Task | Notes | Status |
 |---|------|-------|--------|
 | 22 | Confirm Steve — brief on current community tensions, get approval on his intro draft | Prior live AMA gives instant credibility — reference it in the thread | ⬜ Not started |
-| 23 | Confirm Aleah — brief on likely question types, get approval on her intro draft | Expected topics: metrics, Wishlist items, app flow gaps, job queue logic | ⬜ Not started |
+| 23 | Confirm PE rep — brief on likely question types, get approval on her intro draft | Expected topics: metrics, Wishlist items, app flow gaps, job queue logic | ⬜ Not started |
 | 24 | Identify + confirm marketing rep — brief on GBP/Google reviews topics, get approval on intro draft | Topics: Google Business Profile, asking for reviews, local SEO, off-platform reputation | ⬜ Not started |
 | 25 | Confirm Pro peer participant — brief on likely questions, get approval on intro draft | First choice: Scott Culala (490 all-time replies, already acts as mentor organically); backup: Arely Elrod | ⬜ Not started |
 
-### Month 1 — Aleah (Product & Engineering)
+### Month 1 — PE rep (Product & Engineering)
 
 | # | Task | Format | Status |
 |---|------|--------|--------|
-| 26 | Post Aleah AMA thread | Ask the Community — `drafts/ama-product-engineering.md` | ⬜ Not started |
-| 27 | Compile Aleah Q&As into FAQ post | Pro Academy — title: "You Asked, We Answered — [Month] with Aleah" | ⬜ Not started |
+| 26 | Post PE rep AMA thread | Ask the Community — `drafts/ama-product-engineering.md` | ⬜ Not started |
+| 27 | Compile PE rep Q&As into FAQ post | Pro Academy — title: "You Asked, We Answered — [Month] with PE rep" | ⬜ Not started |
 
 ### Month 2 — Pro Peer (Gold/Platinum)
 
@@ -130,7 +130,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 |---|------|-------|--------|
 | 34 | Meet with Trent M. — understand Pool Pro experience, pain points, questions | Trent is active in the main community (10 posts); first voice to consult before building anything | ⬜ Not started |
 | 35 | Pull sentiment from Will and Shannon — what themes and complaints come up most on the Pool Pro Facebook page | Facebook page is LawnStarter-run but not connected to Bettermode; this is untapped signal | ⬜ Not started |
-| 36 | Confirm with Aleah (PE): do pool Pro metrics work differently from lawn care Pro metrics? | Answer determines whether tier/metrics content needs to be written separately or can reuse existing posts | ⬜ Not started |
+| 36 | Confirm with PE rep (PE): do pool Pro metrics work differently from lawn care Pro metrics? | Answer determines whether tier/metrics content needs to be written separately or can reuse existing posts | ⬜ Not started |
 | 37 | Review hidden Bettermode space — confirm what needs to change to activate it for Pool Pros | Check space settings, visibility, membership rules in Bettermode admin | ⬜ Not started |
 
 ### Build (pending discovery)

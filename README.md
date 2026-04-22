@@ -29,7 +29,7 @@ Content ready for review or confirmation before publishing.
 | File | What It Is |
 |------|------------|
 | `drafts/ama-steve-ceo.md` | Async AMA — Steve (CEO). Month 4. Async continuation of his prior live AMA. |
-| `drafts/ama-product-engineering.md` | Async AMA — Aleah (PE). Month 1. Focused on metrics and how the platform works. |
+| `drafts/ama-product-engineering.md` | Async AMA — PE rep. Month 1. Focused on metrics and how the platform works. |
 | `drafts/ama-pro-peer.md` | Async AMA — Gold/Platinum Pro. Month 2. Peer credibility for new Pros. First choice: Scott Culala. |
 | `drafts/ama-marketing.md` | Async AMA — Marketing rep. Month 3. Google reviews, GBP, off-platform growth. |
 | `drafts/task-07` through `task-10` | First 60 Days series — drafts ready to publish once space is live |

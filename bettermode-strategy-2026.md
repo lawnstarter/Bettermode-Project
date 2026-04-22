@@ -177,7 +177,7 @@ An **async AMA rotation** — one standing thread per month in Ask the Community
 
 | Month | Participant | Theme |
 |-------|-------------|-------|
-| 1 | Aleah, Product & Engineering | "How your metrics actually work" |
+| 1 | PE rep | "How your metrics actually work" |
 | 2 | Gold/Platinum Pro (peer) | "What no one told you when you started" |
 | 3 | Marketing rep | "Growing your business beyond the app" |
 | 4 | Steve, CEO | "Why things work the way they do — and where it's going" |
@@ -190,14 +190,14 @@ An **async AMA rotation** — one standing thread per month in Ask the Community
 
 Themes are grounded in community data:
 - **Steve:** Pricing Issues (34 reactions), Lawn love competitor thread (25 reactions), FigJam LOW PAYOUTS + DISPUTES as top Pro pain points
-- **Aleah:** Metrics is the #1 topic by every engagement measure — 3 of top 10 posts by replies (Performance metrics: 71, METRICS MAYHEM: 40, Metrics: 32)
+- **PE rep:** Metrics is the #1 topic by every engagement measure — 3 of top 10 posts by replies (Performance metrics: 71, METRICS MAYHEM: 40, Metrics: 32)
 - **Pro Peer:** Top peer content is practical and experiential (Client Before Pics: 26 replies, Tips and tricks: 30 reactions)
 - **Marketing:** "Reviews for Google?" has 25 replies; flyers request cracks top 10 — Pros are already trying to grow off-platform
 
 ### Who Should Be Involved
 
 - **Steve** — confirm before publishing; brief on current community tensions (metrics, pricing)
-- **Aleah (PE)** — confirm she has capacity; brief on likely question types (metrics, Wishlist, app flow)
+- **PE rep** — confirm she has capacity; brief on likely question types (metrics, Wishlist, app flow)
 - **Gold/Platinum Pro** — first choice: Scott Culala (490 all-time replies, already acts as peer mentor organically); backup: Arely Elrod
 - **Marketing rep** — identify and confirm; brief on GBP, Google reviews, local SEO
 
@@ -236,14 +236,14 @@ Content will be determined by what comes out of the discovery phase, but likely 
 |----------|--------------|
 | What are Pool Pros actually asking and frustrated by? | Meeting with Trent M. (active community member, pool Pro) |
 | What themes and complaints come up most on the Facebook page? | Sentiment pull from Will and Shannon |
-| Do pool Pro metrics work differently from lawn care Pro metrics? | Confirm with Aleah or product team |
+| Do pool Pro metrics work differently from lawn care Pro metrics? | Confirm with PE team |
 | What does the hidden space look like and what needs to change to activate it? | Review space settings in Bettermode admin |
 
 ### Who Should Be Involved
 
 - **Trent M.** — Pool Pro, already active in the main community (10 posts, top contributor); first voice to consult
 - **Will and Shannon** — manage the LawnStarter Pool Pro Facebook page; source of raw sentiment data that isn't captured anywhere in Bettermode yet
-- **Aleah (PE)** — confirm whether pool Pro metrics are distinct from lawn care metrics before any tier/metrics content is written
+- **PE rep** — confirm whether pool Pro metrics are distinct from lawn care metrics before any tier/metrics content is written
 
 ### Expected Outcome
 

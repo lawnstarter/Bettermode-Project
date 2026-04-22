@@ -6,10 +6,10 @@ Data sources: bettermode-alltime-analytics.md, pro-discovery-figjam-insights.md,
 
 ## Theme per Participant
 
-### Aleah — Product & Engineering
+### PE Rep — Product & Engineering
 **Theme: "How your metrics actually work"**
 
-Metrics and performance are the #1 organic topic in the community by every engagement measure — 3 of the top 10 posts by replies are explicitly about metrics (Performance metrics: 71 replies, METRICS MAYHEM: 40, Metrics: 32). METRICS MAYHEM leads all posts by reactions (55). Pros are not asking for higher scores — they're asking to understand the system. Aleah's thread should demystify how the platform calculates what it calculates.
+Metrics and performance are the #1 organic topic in the community by every engagement measure — 3 of the top 10 posts by replies are explicitly about metrics (Performance metrics: 71 replies, METRICS MAYHEM: 40, Metrics: 32). METRICS MAYHEM leads all posts by reactions (55). Pros are not asking for higher scores — they're asking to understand the system. This thread should demystify how the platform calculates what it calculates.
 
 ---
 
@@ -40,7 +40,7 @@ Pros react most to things that feel unfair or opaque: Pricing Issues (34 reactio
 
 | Month | Participant | Theme |
 |-------|-------------|-------|
-| 1 | Aleah (PE) | How your metrics actually work |
+| 1 | PE rep | How your metrics actually work |
 | 2 | Pro Peer | What no one told you when you started |
 | 3 | Marketing Rep | Growing your business beyond the app |
 | 4 | Steve (CEO) | Why things work the way they do — and where it's going |
