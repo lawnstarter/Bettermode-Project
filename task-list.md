@@ -36,7 +36,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 13 | Write + publish: Unresponsive customer — step by step | Field guide post | P1 | ✅ Done — `drafts/task-13-unresponsive-customer.md` |
 | 14 | Write + publish: Payment questions — timing, breakdowns, where to look | Field guide post | P2 | ✅ Done |
 | 15 | Write + publish: What actually affects your completion rate | Field guide post | P2 | ✅ Done — `drafts/task-15-completion-rate.md` |
-| 16 | Alert support managers when each Field Guide post goes live (so they can link in tickets) | Slack message | — | ⬜ Not started |
+| 16 | Create + maintain Zendesk reference doc: maps ticket type to Bettermode post link — update each time a new post goes live | Zendesk pinned doc | — | ⬜ Not started |
 
 *Dependency: Task 1 (Zendesk pull) informs priority order. Drafting can begin before data is back.*
 
