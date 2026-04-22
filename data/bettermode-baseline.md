@@ -1,7 +1,7 @@
 # Bettermode Baseline: Active Pro Count + Post View Rate
 **Task:** 3
 **Status:** ✅ Complete
-**Pulled by:** Katherine Kennedy
+**Pulled by:** Kat Kennedy
 **Pull date:** April 21, 2026
 **Snapshot date:** All-time (since launch ~Aug 2025) + last 7 days (Apr 15–21, 2026)
 **Source:** Bettermode Admin → Reports → Analytics

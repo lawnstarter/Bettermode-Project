@@ -90,7 +90,7 @@ Next up: posting next month with someone else from the team.
 - Steve has done a live AMA before — this thread is a lower-lift version that doesn't require a scheduled event
 - Brief him on what's live in the community right now: metrics frustration is the dominant topic, Wishlist items are active, Pros are asking about off-platform growth
 - The prior live AMA gives this instant credibility — reference it in the intro so Pros know this isn't a first attempt
-- Katherine introduces him in the thread — he shouldn't have to cold-start it
+- Kat introduces him in the thread — he shouldn't have to cold-start it
 - If a question comes in that's better answered by a product or engineering person, Steve can acknowledge it and route it — that's a natural handoff to the other AMA threads in the rotation
 - FAQ post goes in Pro Academy, not Ask the Community
 - Tag consistently so the CEO thread is findable alongside the rest of the rotation series

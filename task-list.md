@@ -8,10 +8,10 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Owner | Status |
 |---|------|-------|--------|
-| 1 | ~~Pull Zendesk~~ Extracted from Matt's retention discovery (`docs/swim-lanes/retention/research/2026-03-26-support-data-findings.md`) | Katherine | ✅ Done |
-| 2 | ~~Pull data~~ Already in Brain: 56.2% of new Pros reach job 7 (11,685/20,796) — `docs/swim-lanes/retention/cold-start-blue/rating-rate-first-10.md` | Katherine | ✅ Done |
-| 3 | Pull Bettermode baseline: active Pro count + current post view rate | Katherine | ✅ Done — `data/bettermode-baseline.md` |
-| 3a | Resolve Zendesk reporting access — confirm whether Katherine can get a direct reporting seat; if not, identify who currently holds access after seat holder changes (Nicole and Patrick may no longer have it) | Katherine → Dustin + Seth | ⬜ Not started |
+| 1 | ~~Pull Zendesk~~ Extracted from Matt's retention discovery (`docs/swim-lanes/retention/research/2026-03-26-support-data-findings.md`) | Kat | ✅ Done |
+| 2 | ~~Pull data~~ Already in Brain: 56.2% of new Pros reach job 7 (11,685/20,796) — `docs/swim-lanes/retention/cold-start-blue/rating-rate-first-10.md` | Kat | ✅ Done |
+| 3 | Pull Bettermode baseline: active Pro count + current post view rate | Kat | ✅ Done — `data/bettermode-baseline.md` |
+| 3a | Resolve Zendesk reporting access — confirm whether Kat can get a direct reporting seat; if not, identify who currently holds access after seat holder changes (Nicole and Patrick may no longer have it) | Kat → Dustin + Seth | ⬜ Not started |
 
 ---
 
@@ -89,7 +89,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 23 | Confirm PE rep — brief on likely question types, get approval on her intro draft | Expected topics: metrics, Wishlist items, app flow gaps, job queue logic | ⬜ Not started |
 | 24 | Identify + confirm marketing rep — brief on GBP/Google reviews topics, get approval on intro draft | Topics: Google Business Profile, asking for reviews, local SEO, off-platform reputation | ⬜ Not started |
 | 25 | Confirm Pro peer participant — brief on likely questions, get approval on intro draft | First choice: Scott Culala (490 all-time replies, already acts as mentor organically); backup: Arely Elrod | ⬜ Not started |
-| 25a | Confirm Callie and Vinicius (Gamification) — brief on support ticket pattern, get approval on their intro draft | Gamification questions currently bounce through Katherine or Support before reaching them — this thread eliminates that routing | ⬜ Not started |
+| 25a | Confirm Callie and Vinicius (Gamification) — brief on support ticket pattern, get approval on their intro draft | Gamification questions currently bounce through Kat or Support before reaching them — this thread eliminates that routing | ⬜ Not started |
 
 ### Month 1 — PE rep (Product & Engineering)
 

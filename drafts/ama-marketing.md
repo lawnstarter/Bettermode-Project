@@ -91,5 +91,5 @@ Next up: posting next month.
 - Confirm (rep) is willing and has capacity before scheduling
 - Brief them on what Pros are actually asking: Google Business Profile setup, how to ask for reviews without violating Google policy, local SEO basics, how to share their LawnStarter reputation off-platform
 - The GBP topic has already generated organic posts from two Pros including Arely Elrod — there is real demand waiting
-- Katherine introduces them in the thread — they shouldn't have to cold-start it
+- Kat introduces them in the thread — they shouldn't have to cold-start it
 - FAQ post goes in Pro Academy, not Ask the Community

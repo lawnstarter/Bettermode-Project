@@ -1,6 +1,6 @@
 # Bettermode Resource Links — Support Reference
 Pin in: Zendesk (internal)
-Owner: Katherine Kennedy
+Owner: Kat Kennedy
 Updated: as new posts go live
 
 ---
@@ -43,5 +43,5 @@ When a Pro asks a question covered by a Bettermode post, paste the link directly
 ## Notes for Support
 
 - Links marked [link when live] will be filled in as posts are published — check back before use
-- If a Pro's question isn't covered here, flag it to Katherine — it may be a gap worth writing to
-- Do not edit this doc; send updates to Katherine
+- If a Pro's question isn't covered here, flag it to Kat — it may be a gap worth writing to
+- Do not edit this doc; send updates to Kat

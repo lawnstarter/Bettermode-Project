@@ -39,7 +39,7 @@ Pros react most to things that feel unfair or opaque: Pricing Issues (34 reactio
 ### Callie + Vinicius — Gamification
 **Theme: "How Challenges and the Leaderboard actually work"**
 
-Challenges and Leaderboard spaces have ~3,900 members vs ~8,300 in the core spaces — half the community hasn't engaged with gamification at all. Questions about bonus payouts, challenge requirements, and Leaderboard ranking currently bounce through Katherine or Support before reaching the people who actually own it. This thread puts Callie and Vinicius directly in front of Pros, cuts out the middleman, and gives the gamification features the visibility they're not currently getting.
+Challenges and Leaderboard spaces have ~3,900 members vs ~8,300 in the core spaces — half the community hasn't engaged with gamification at all. Questions about bonus payouts, challenge requirements, and Leaderboard ranking currently bounce through Kat or Support before reaching the people who actually own it. This thread puts Callie and Vinicius directly in front of Pros, cuts out the middleman, and gives the gamification features the visibility they're not currently getting.
 
 ---
 

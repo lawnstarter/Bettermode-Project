@@ -1,14 +1,14 @@
 # Tracking: Zendesk Ticket Volume by Category (Monthly Snapshot)
 **Task:** 20
 **Cadence:** Monthly — pull in the first week of each month
-**Owner:** Katherine Kennedy
+**Owner:** Kat Kennedy
 **Purpose:** Measure whether Bettermode content is reducing support ticket volume in the categories we're targeting
 
 ---
 
 ## How to Pull
 
-**Preferred: Katherine gets direct Zendesk reporting access.**
+**Preferred: Kat gets direct Zendesk reporting access.**
 This request needs to go through Dustin and Seth — they control Zendesk seat assignments. Seat holder changes have made it unclear whether Nicole or Patrick still have reporting access, so they are no longer reliable options. Until direct access is confirmed, use the interim option below.
 
 **Interim — Matt's discovery refresh**

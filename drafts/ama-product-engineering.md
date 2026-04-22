@@ -79,6 +79,6 @@ Next up: posting next month.
 - Confirm (PE rep) is willing and has capacity before scheduling — this only works if they'll actually answer
 - Candidates: Ginger or anyone else from the PE team with direct platform knowledge
 - Brief them on the types of questions likely to come in: metrics frustration, Wishlist items, app flow gaps, job queue logic
-- Katherine introduces them in the thread — they shouldn't have to cold-start it
+- Kat introduces them in the thread — they shouldn't have to cold-start it
 - The FAQ post goes in Pro Academy, not Ask the Community — it needs to be findable long-term
 - Tag the FAQ post consistently so the series builds over time

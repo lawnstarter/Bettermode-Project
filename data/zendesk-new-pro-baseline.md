@@ -4,7 +4,7 @@
 **Branch:** `matt/retention-support-data-findings`
 **File:** `docs/swim-lanes/retention/research/2026-03-26-support-data-findings.md`
 **Data pulled by Matt:** March 26, 2026 | Covers March 2025–March 2026 (12 months)
-**Extracted by:** Katherine Kennedy, April 21, 2026
+**Extracted by:** Kat Kennedy, April 21, 2026
 
 > **Caveat on tenure filter:** Matt's data segments by Pro tier (New tier = Intro/Red/Blue), not by exact days-on-platform. New tier includes Pros in their first 3 months OR with fewer than 20 jobs in the last 12 months. This is the closest available proxy for "first 60 days" without a direct Zendesk pull. Numbers are directionally reliable; treat as baseline, not exact.
 

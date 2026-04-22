@@ -1,7 +1,7 @@
 # Tracking: Bettermode Views Per Post (Weekly Export)
 **Task:** 21
 **Cadence:** Weekly — pull every Monday morning
-**Owner:** Katherine Kennedy
+**Owner:** Kat Kennedy
 **Purpose:** Track view counts on published strategy content week over week; measure whether posts hit the 25-unique-views-within-30-days target
 
 ---

@@ -1,5 +1,5 @@
 # Bettermode Q1–Q2 2026 — Pro Community Strategy
-**Owner:** Katherine Kennedy
+**Owner:** Kat Kennedy
 **Last updated:** April 2026
 
 ---

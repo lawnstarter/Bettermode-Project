@@ -15,7 +15,7 @@ Status: Draft — confirm Callie and Vinicius before publishing
 
 ## WHY THIS FORMAT WORKS
 
-Pros who have questions about Challenges, the Leaderboard, or how gamification affects their standing currently have no direct line to the people who built and manage it. Those questions get routed through Katherine, Support, or go unanswered entirely. This thread puts Callie and Vinicius in the room directly — no middleman, no ticket, no wait.
+Pros who have questions about Challenges, the Leaderboard, or how gamification affects their standing currently have no direct line to the people who built and manage it. Those questions get routed through Kat, Support, or go unanswered entirely. This thread puts Callie and Vinicius in the room directly — no middleman, no ticket, no wait.
 
 The Challenges and Leaderboard spaces currently have ~3,900 members vs ~8,300 in the core spaces. Half the community hasn't engaged with gamification at all. This thread is also a chance to explain what's there and why it's worth using.
 
@@ -94,9 +94,9 @@ Missed this one? You can still drop questions in the original thread.
 ## PUBLISHING NOTES
 
 - Confirm both Callie and Vinicius are willing and have capacity — having two people means the thread stays active even if one gets pulled away
-- Brief them on the support ticket pattern: questions about gamification currently get routed through Katherine or Support before reaching them — this thread eliminates that
+- Brief them on the support ticket pattern: questions about gamification currently get routed through Kat or Support before reaching them — this thread eliminates that
 - Key topics likely to come up: how challenges are structured, bonus payout timing, Leaderboard ranking logic, why a challenge didn't trigger correctly
-- Katherine introduces them in the thread — they shouldn't have to cold-start it
+- Kat introduces them in the thread — they shouldn't have to cold-start it
 - FAQ post goes in Pro Academy, not Ask the Community
 - Challenges and Leaderboard spaces have ~3,900 members vs ~8,300 in core spaces — this thread is also an opportunity to drive awareness that these features exist
 - Tag consistently so the series remains findable
