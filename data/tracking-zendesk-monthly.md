@@ -8,15 +8,13 @@
 
 ## How to Pull
 
-Katherine doesn't currently have Zendesk access. Two options:
+**Preferred: Katherine gets direct Zendesk reporting access.**
+This request needs to go through Dustin and Seth — they control Zendesk seat assignments. Seat holder changes have made it unclear whether Nicole or Patrick still have reporting access, so they are no longer reliable options. Until direct access is confirmed, use the interim option below.
 
-**Option A — Request from support manager (Nicole Ross or Patrick Mahan)**
-> "Hey — quick ask. Can you pull me monthly ticket volume broken down by subcategory for new-tier Pros (Blue/Intro/Red)? I need the subcategories: long_grass_problem, service_help, account_help, scheduling_problem, help_with_dispute. Trying to track whether the Bettermode content is moving the needle on these. Just the counts, even a screenshot of the Zendesk report is fine."
+**Interim — Matt's discovery refresh**
+Matt already ran this analysis for March 2025–March 2026. If direct access isn't resolved in time, ask Matt to re-run the support data pull and share the updated breakdown. This is a workaround, not the long-term process.
 
-**Option B — Matt's discovery refresh**
-Matt already ran this analysis for March 2025–March 2026. If he runs a refresh quarterly, that covers this. Ask Matt to re-run the support data pull each quarter and share the updated breakdown.
-
-**Recommended: Option A monthly for the first 90 days, then quarterly after that.**
+**Action needed: Task 3a — confirm Zendesk reporting access with Dustin and Seth before the May 2026 pull.**
 
 ---
 
