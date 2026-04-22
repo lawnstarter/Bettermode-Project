@@ -1,7 +1,7 @@
 # Bettermode Strategy: Q1–Q2 2026
 **Owner:** Kat Kennedy
 **Due:** End of week (April 25, 2026)
-**For:** Matt
+**For:** Pro Leadership, Support, PE, Marketing, Gamification
 
 ---
 
