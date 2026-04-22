@@ -8,6 +8,12 @@ Working files for the LawnStarter Pro community strategy on Bettermode. This rep
 
 ---
 
+## Mission
+
+**`mission.md`** — The north star for everything in this repo. Get new Pros to Blue faster, keep them climbing, and make this a cross-functional effort.
+
+---
+
 ## Strategy
 
 **`bettermode-strategy-2026.md`** — The main strategy document. Four focus areas, each tied to a specific problem, data point, and measurable outcome.
