@@ -16,14 +16,23 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 ## Phase 1 — Focus Area 1: New Pro Success (First 60 Days)
 
+### Space Setup
+
+| # | Task | Notes | Status |
+|---|------|-------|--------|
+| 7a | Activate hidden Bettermode space for First 60 Days | Configure name, description, visibility — open to all members, framed for new Pros | ⬜ Not started |
+| 7b | Write and pin space welcome post | Brief intro explaining what this space is and how to use it — not a content post, just orientation | ⬜ Not started |
+
+### Content
+
 | # | Task | Format | Priority | Status |
 |---|------|--------|----------|--------|
-| 7 | Write + publish: "Getting your first job — what to expect, how the queue works" | Short post + 1 action | P1 | ✅ Done — `drafts/task-07-getting-first-job.md` |
-| 8 | Write + publish: "Your first service — photos, long grass, completing correctly" | Short post + 1 action | P1 | ✅ Done — `drafts/task-08-your-first-service.md` |
-| 9 | Write + publish: "Understanding your tier score — what moves it, what doesn't" | Short post + 1 action | P1 | ✅ Done — `drafts/task-09-understanding-tier-score.md` |
-| 10 | Write + publish: "Getting to Blue — what it means and how to get there" | Short post + 1 action | P1 | ✅ Done — `drafts/task-10-getting-to-blue.md` |
+| 7 | Publish: "Getting your first job — what to expect, how the queue works" | Short post + 1 action | P1 | ✅ Draft done — `drafts/task-07-getting-first-job.md` |
+| 8 | Publish: "Your first service — photos, long grass, completing correctly" | Short post + 1 action | P1 | ✅ Draft done — `drafts/task-08-your-first-service.md` |
+| 9 | Publish: "Understanding your tier score — what moves it, what doesn't" | Short post + 1 action | P1 | ✅ Draft done — `drafts/task-09-understanding-tier-score.md` |
+| 10 | Publish: "Getting to Blue — what it means and how to get there" | Short post + 1 action | P1 | ✅ Draft done — `drafts/task-10-getting-to-blue.md` |
 
-*Dependency: Tasks 1 and 2 must be complete before publishing. Baselines needed for measurement.*
+*Dependencies: Tasks 7a and 7b before publishing any content. Tasks 1 and 2 must be complete before publishing — baselines needed for measurement.*
 
 ---
 

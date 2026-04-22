@@ -52,6 +52,8 @@ None of these are exotic. They're predictable. We know them already. The gap is 
 
 **Format:** Short posts with a clear answer + one action. No walls of text. Visual where possible.
 
+**Home:** A dedicated Bettermode space — activated from an existing hidden space — so new Pros have one place to go rather than hunting through Ask the Community. All four posts live here, pinned and ordered. The space is visible to all members but clearly framed for new Pros.
+
 ### Who Should Be Involved
 
 - **Support team** (consult): Pull the actual top tickets from new Pros in their first 60 days. I want the real questions, not my guess at them. One-time data pull, no ongoing involvement needed.
