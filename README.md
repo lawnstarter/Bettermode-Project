@@ -1,10 +1,10 @@
-# Bettermode Q2 2026 — Pro Community Strategy
+# Bettermode Q1–Q2 2026 — Pro Community Strategy
 **Owner:** Katherine Kennedy
 **Last updated:** April 2026
 
 ---
 
-Working files for the LawnStarter Pro community strategy on Bettermode. This repo holds the strategy document, content drafts, and data references used to plan and execute Q2 2026.
+Working files for the LawnStarter Pro community strategy on Bettermode. This repo holds the strategy document, content drafts, and data references used to plan and execute Q1–Q2 2026.
 
 ---
 

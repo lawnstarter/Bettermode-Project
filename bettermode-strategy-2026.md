@@ -1,4 +1,4 @@
-# Bettermode Strategy: Q2 2026
+# Bettermode Strategy: Q1–Q2 2026
 **Owner:** Katherine Kennedy
 **Due:** End of week (April 25, 2026)
 **For:** Matt
