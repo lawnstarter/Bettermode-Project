@@ -46,6 +46,7 @@ Reference files pulled from community analytics and internal research.
 
 | File | What It Is |
 |------|------------|
+| `data/bettermode-content-tracker.md` | All published Bettermode content — title, type, status, link, and flags for review. Pulled from the content tracker spreadsheet. |
 | `data/bettermode-alltime-analytics.md` | All-time Bettermode analytics pulled April 21, 2026 |
 | `data/bettermode-baseline.md` | Baseline community metrics for Q2 tracking |
 | `data/ama-theme-assignments.md` | Theme rationale for each AMA participant, with suggested sequencing |
