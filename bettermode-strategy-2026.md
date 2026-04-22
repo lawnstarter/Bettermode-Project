@@ -54,10 +54,20 @@ None of these are exotic. They're predictable. We know them already. The gap is 
 
 **Home:** A dedicated Bettermode space — activated from an existing hidden space — so new Pros have one place to go rather than hunting through Ask the Community. All four posts live here, pinned and ordered. The space is visible to all members but clearly framed for new Pros.
 
+### Distribution — Getting New Pros Into the Space
+
+The space has no value if new Pros don't find it. The existing Braze flow already texts new Pros an invitation to join the community (sent by Callie). The goal is to add a follow-up text that sends the First 60 Days space link automatically after they join.
+
+This requires confirming two things:
+1. Does Bettermode fire an event (webhook or API signal) when a user joins that Braze can listen to?
+2. If so, can a triggered message be added to the existing new Pro Braze journey without disrupting what's already live?
+
+If the trigger is possible, this becomes the primary distribution mechanism — no manual work, no hoping new Pros find it themselves.
+
 ### Who Should Be Involved
 
+- **Callie** — owns the Braze new Pro journey; confirm whether the trigger is technically possible and whether it fits the existing flow
 - **Support team** (consult): Pull the actual top tickets from new Pros in their first 60 days. I want the real questions, not my guess at them. One-time data pull, no ongoing involvement needed.
-- **No one else yet.** Product and marketing involvement isn't warranted until we know this format lands.
 
 ### Expected Outcome
 
