@@ -10,7 +10,7 @@ Working files for the LawnStarter Pro community strategy on Bettermode. This rep
 
 ## Mission
 
-**`mission.md`** — The north star for everything in this repo. Get new Pros to Blue faster, keep them climbing, and make this a cross-functional effort.
+**`mission.md`** — The north star for everything in this repo. A place for Pros to connect with each other and with the org — building stronger partnerships and rapport with the people doing the work. Pro success, including reaching Blue, follows from building something worth showing up to.
 
 ---
 

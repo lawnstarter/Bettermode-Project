@@ -10,7 +10,7 @@ I've been building out the Bettermode strategy for Q1–Q2 and wanted to share i
 
 Here's the short version of what's in it:
 
-**Mission:** Get new Pros to Blue faster and keep them climbing — by giving them the right information, connections, and expert access at the right time. Cross-functional effort with Support, PE, Marketing, and Gamification as direct partners in the community.
+**Mission:** Give Pros a place to connect — with each other and with the people at LawnStarter who support them. Build stronger partnerships and real rapport with the guys out in the field. Content, expert access, and resources are how we support that. Pro success — including getting to Blue — is a byproduct of building something worth showing up to. Cross-functional effort with Support, PE, Marketing, and Gamification as direct partners.
 
 **Five focus areas:**
 1. **New Pro Success (First 60 Days)** — Dedicated Bettermode space with structured content for new Pros during the highest drop-off window. Includes a Braze trigger (working with Callie) to send new Pros directly to the space after they join.
