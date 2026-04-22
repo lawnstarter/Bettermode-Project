@@ -1,6 +1,6 @@
 # Bettermode Published Content Tracker
 Source: Google Sheets — Bettermode Content Tracker
-Last pulled: April 22, 2026
+Last pulled: April 22, 2026 (updated same day)
 Owner: Kat Kennedy
 
 Tracks all content published to Bettermode Pro Academy. Use to audit what's live, flag what needs review, and inform the Zendesk reference guide with direct post links.
@@ -78,7 +78,7 @@ Tracks all content published to Bettermode Pro Academy. Use to audit what's live
 |-------|------|--------|---------|--------------|-------|------|
 | What to Look for and How to Recommend Additional Services to Customers | Pro Academy | Live | v1 | 07/2025 | Kat | [link](https://community.lawnstarter.com/pro-academy/post/what-to-look-for-and-how-to-recommend-additional-services-to-customers-NaWjhQoEm4s3VPS) |
 | "Is That Included?" — How to Politely Handle Requests Outside Basic Mowing | Pro Academy | Live | v1 | 07/2025 | Kat | [link](https://community.lawnstarter.com/pro-academy/post/is-that-included----how-to-politely-handle-requests-outside-basic-8sdy9GHBpvUC3Hz) |
-| Spotting Lawn Issues & What to Recommend to Customers | Pro Academy | Hidden | v1 | 07/2025 | Kat | [link](https://community.lawnstarter.com/pro-academy/post/spotting-lawn-issues-what-to-recommend-to-customers-BkrCH6dWsa7qbVw) |
+| Spotting Lawn Issues & What to Recommend to Customers | Pro Academy | Live | v1 | 07/2025 | Kat | [link](https://community.lawnstarter.com/pro-academy/post/spotting-lawn-issues-what-to-recommend-to-customers-BkrCH6dWsa7qbVw) |
 | Pro Recommendation Playbook | Pro Academy | Live | v1 | 08/2025 | Callie | [link](https://community.lawnstarter.com/pro-academy/post/pro-recommendation-playbook-6Nne58uvWgQFgy6) |
 | Mini Pro Recommendation Playbook | Pro Academy | Live | v1 | 08/2025 | Kim | [link](https://community.lawnstarter.com/pro-academy/post/mini-pro-recommendation-playbook-47334WwtBO7xjjo) |
 | Using the "On The Way" Customer Notification | Pro Academy | Live | v1 | 11/2025 | Kat | [link](https://community.lawnstarter.com/pro-academy/post/using-the-on-the-way-customer-notification-qMTE1pInDpi5a9U) |
@@ -98,7 +98,7 @@ Tracks all content published to Bettermode Pro Academy. Use to audit what's live
 
 | Title | Type | Status | Version | Last Updated | Link |
 |-------|------|--------|---------|--------------|------|
-| Busy Season Survival Tips for Pros | Pro Academy | Hidden | v1 | 07/2025 | [link](https://community.lawnstarter.com/pro-academy/post/busy-season-survival-tips-for-pros-LiV3PYDdAQ8BXQH) |
+| Busy Season Survival Tips for Pros | Pro Academy | Live | v1 | 07/2025 | [link](https://community.lawnstarter.com/pro-academy/post/busy-season-survival-tips-for-pros-LiV3PYDdAQ8BXQH) |
 | 7 Tips & Tricks on Pricing a Weeding Quote | Pro Academy | Live | v1 | 09/2025 | [link](https://community.lawnstarter.com/pro-academy/post/7-tips-tricks-on-pricing-a-weeding-quote-tmiliaWvHWdXilU) |
 | Sprinkler Blowouts: Big Opportunity This Season | Pro Academy | Live | v1 | 09/2025 | [link](https://community.lawnstarter.com/pro-academy/post/sprinkler-blowouts-big-opportunity-this-season-cDynYIgtxQjOomB) |
 | Leaf Removal: The Time Has Come | Pro Academy | Live | v1 | 10/2025 | [link](https://community.lawnstarter.com/pro-academy/post/leaf-removal-the-time-has-come-QLi1iGNrpAMC6Kg) |
@@ -114,5 +114,3 @@ Tracks all content published to Bettermode Pro Academy. Use to audit what's live
 | Title | Status | Note |
 |-------|--------|------|
 | Why It's a Good Idea to Keep GPS On | Needs Review | Trigger: Product Change — review for accuracy against current app behavior |
-| Spotting Lawn Issues & What to Recommend to Customers | Hidden | Intentionally hidden? Confirm whether to republish or archive |
-| Busy Season Survival Tips for Pros | Hidden | Intentionally hidden? Seasonal — may be worth republishing ahead of peak season |
