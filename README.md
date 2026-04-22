@@ -44,6 +44,7 @@ Content ready for review or confirmation before publishing.
 | `drafts/task-11` through `task-15` | Field Guide posts — problem scenario content for Pros |
 | `drafts/task-17` through `task-19` | Tier explainer, Blue milestone recognition, monthly Q&A thread |
 | `drafts/zendesk-bettermode-reference.md` | Zendesk internal reference doc — maps ticket type to Bettermode post link. Draft for Matt's review. |
+| `drafts/manager-review-draft.md` | Copy-paste message to send to manager for feedback before strategy is shared more widely. |
 
 ---
 
