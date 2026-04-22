@@ -153,12 +153,61 @@ Pros understand their tier score well enough to work with it rather than around 
 
 ---
 
+## Focus Area 4: Expert Access Rotation (AMA Series)
+
+### The Problem
+
+Admin accounts for 32% of all community activity (2,170 of 6,760 total activities). HQ is doing a disproportionate share of engagement. The community's most discussed topics — metrics confusion, off-platform growth, pricing frustration — need voices beyond Katherine to resolve. Pros already know she'll answer. What builds deeper trust is when they can get straight answers from the people making decisions and from Pros who've already figured things out.
+
+### What I'll Build in Bettermode
+
+An **async AMA rotation** — one standing thread per month in Ask the Community, answered by a different expert over 7–10 days, then compiled into a searchable FAQ post in Pro Academy.
+
+| Month | Participant | Theme |
+|-------|-------------|-------|
+| 1 | Steve, CEO | "Why things work the way they do — and where it's going" |
+| 2 | Aleah, Product & Engineering | "How your metrics actually work" |
+| 3 | Gold/Platinum Pro (peer) | "What no one told you when you started" |
+| 4 | Marketing rep | "Growing your business beyond the app" |
+
+**Format:** Katherine introduces each participant in the thread — they don't cold-start it. Participant answers replies as they come in, no schedule required. After 7–10 days (or when activity slows), Q&As are compiled into a Pro Academy post and archived so they remain searchable.
+
+**Draft files:** `drafts/ama-steve-ceo.md`, `drafts/ama-product-engineering.md`, `drafts/ama-pro-peer.md`, `drafts/ama-marketing.md`
+
+### Theme Rationale
+
+Themes are grounded in community data:
+- **Steve:** Pricing Issues (34 reactions), Lawn love competitor thread (25 reactions), FigJam LOW PAYOUTS + DISPUTES as top Pro pain points
+- **Aleah:** Metrics is the #1 topic by every engagement measure — 3 of top 10 posts by replies (Performance metrics: 71, METRICS MAYHEM: 40, Metrics: 32)
+- **Pro Peer:** Top peer content is practical and experiential (Client Before Pics: 26 replies, Tips and tricks: 30 reactions)
+- **Marketing:** "Reviews for Google?" has 25 replies; flyers request cracks top 10 — Pros are already trying to grow off-platform
+
+### Who Should Be Involved
+
+- **Steve** — confirm before publishing; brief on current community tensions (metrics, pricing)
+- **Aleah (PE)** — confirm she has capacity; brief on likely question types (metrics, Wishlist, app flow)
+- **Gold/Platinum Pro** — first choice: Scott Culala (490 all-time replies, already acts as peer mentor organically); backup: Arely Elrod
+- **Marketing rep** — identify and confirm; brief on GBP, Google reviews, local SEO
+
+### Expected Outcome
+
+The dominant unresolved topics get addressed by the people best positioned to answer them. Member-generated activity increases as Pros engage with voices they trust. Pro Academy builds a library of searchable expert answers that reduces repeat questions.
+
+### How I'll Measure It
+
+| Metric | Baseline | Target |
+|--------|----------|--------|
+| Admin share of total community activity | 32% | Under 25% by end of Q2 |
+| AMA thread engagement (replies + reactions per thread) | 0 (new) | 20+ combined per thread |
+| Pro Academy FAQ views | 0 (new) | 50+ views per compiled post within 30 days |
+
+---
+
 ## What I'm NOT Doing (And Why)
 
 | Idea | Why Not Now |
 |------|-------------|
-| AMAs / live calls | No defined topic, no defined outcome. Will do one when I have a specific problem to solve and a specific Pro segment to solve it with. |
-| Bringing in marketing/product/Jeff | They have a role eventually — not yet. Right now there's no strategic reason to involve them. I'll identify the specific problem they'd solve before I make that ask. |
+| Live/scheduled AMAs | Async format works better — no time zone problem, no scheduling lift, and the thread stays searchable. Live events were a one-time format; the rotation is ongoing. |
 | General community building / engagement posts | Not a strategy. Every post needs to trace back to a problem. |
 | Gamification / certifications | Future state. The platform problem has to be solved before the reward layer makes sense. |
 
@@ -183,3 +232,4 @@ I can pull items 1 and 2 from Brain/support data. Item 3 I can pull from Betterm
 | New Pro Success (0–60 days) | Half of new Pros don't reach job 10 | 20,796 → 10,217 by job 10; intervention window is jobs 1–7 | Reduce early attrition; reduce tier/rating support tickets from new Pros |
 | High-Frequency Problem Scenarios | 40% of schedules hit a problem; Pros have no proactive guidance | 3.5% ticket-to-service ratio; 43% cancel rate on first-job issues | Deflect predictable support tickets; protect customer retention |
 | Tier System Clarity | Rating/tier confusion is #3 support ticket; creates defensive Pro behavior | 35% → 63% Blue attainment lift possible in coachable middle | Reduce tier confusion tickets; increase Blue attainment in mid-rated Pros |
+| Expert Access Rotation (AMA Series) | HQ drives 32% of all community activity; dominant topics need trusted expert voices | Metrics: 3 of top 10 posts by replies; 32% admin share of activity | Reduce admin activity share; build searchable library of expert answers on top Pro concerns |
