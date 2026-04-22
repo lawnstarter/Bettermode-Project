@@ -16,7 +16,7 @@ Working files for the LawnStarter Pro community strategy on Bettermode. This rep
 
 ## Strategy
 
-**`bettermode-strategy-2026.md`** — The main strategy document. Four focus areas, each tied to a specific problem, data point, and measurable outcome.
+**`bettermode-strategy-2026.md`** — The main strategy document. Five focus areas, each tied to a specific problem, data point, and measurable outcome.
 
 | Focus Area | Core Problem |
 |------------|-------------|

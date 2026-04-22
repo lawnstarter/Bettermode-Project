@@ -7,7 +7,11 @@
 
 ## What This Is
 
-A data-backed plan for how Bettermode should operate over the next quarter. Not a content calendar. Not a list of ideas. Three focus areas chosen because the data says they move the needle — with defined outcomes and a way to measure each one.
+A data-backed plan for how Bettermode should operate over Q1–Q2 2026. Not a content calendar. Not a list of ideas.
+
+The Bettermode Pro Community exists to give Pros a place to connect — with each other and with the people at LawnStarter who support them. Stronger partnerships and real rapport with the people doing the work is the goal. Content, expert access, and resources are how we get there.
+
+This plan covers five focus areas chosen because the data says they move the needle — with defined outcomes and a way to measure each one. It builds on a foundation that already exists: 49 posts live across 6 content categories, an active member base, and cross-functional partnerships already in motion.
 
 ---
 
@@ -185,7 +189,7 @@ An **async AMA rotation** — one standing thread per month in Ask the Community
 
 **Format:** Kat introduces each participant in the thread — they don't cold-start it. Participant answers replies as they come in, no schedule required. After 7–10 days (or when activity slows), Q&As are compiled into a Pro Academy post and archived so they remain searchable.
 
-**Draft files:** `drafts/ama-steve-ceo.md`, `drafts/ama-product-engineering.md`, `drafts/ama-pro-peer.md`, `drafts/ama-marketing.md`
+**Draft files:** `drafts/ama-steve-ceo.md`, `drafts/ama-product-engineering.md`, `drafts/ama-pro-peer.md`, `drafts/ama-marketing.md`, `drafts/ama-gamification.md`
 
 ### Theme Rationale
 
@@ -198,7 +202,7 @@ Themes are grounded in community data:
 ### Who Should Be Involved
 
 - **Steve** — confirm before publishing; brief on current community tensions (metrics, pricing)
-- **PE rep** — confirm she has capacity; brief on likely question types (metrics, Wishlist, app flow)
+- **PE rep** — confirm they have capacity; brief on likely question types (metrics, Wishlist, app flow)
 - **Gold/Platinum Pro** — first choice: Scott Culala (490 all-time replies, already acts as peer mentor organically); backup: Arely Elrod
 - **Marketing rep** — identify and confirm; brief on GBP, Google reviews, local SEO
 - **Callie + Vinicius (Gamification)** — confirm both are willing; brief on support ticket pattern (gamification questions currently bounce through Kat or Support before reaching them — this thread cuts that out)
