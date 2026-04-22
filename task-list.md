@@ -140,6 +140,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 35 | Pull sentiment from Will and Shannon — what themes and complaints come up most on the Pool Pro Facebook page | Facebook page is LawnStarter-run but not connected to Bettermode; this is untapped signal | ⬜ Not started |
 | 36 | Confirm with PE rep (PE): do pool Pro metrics work differently from lawn care Pro metrics? | Answer determines whether tier/metrics content needs to be written separately or can reuse existing posts | ⬜ Not started |
 | 37 | Review hidden Bettermode space — confirm what needs to change to activate it for Pool Pros | Check space settings, visibility, membership rules in Bettermode admin | ⬜ Not started |
+| 37a | Connect with Jeff Herman's team — inventory what Pool Pro content is available or in progress to feature in the space | Jeff's team is actively producing Pool Pro content; coordinate so the space surfaces their work rather than duplicating it | ⬜ Not started |
 
 ### Build (pending discovery)
 

@@ -231,6 +231,7 @@ Content will be determined by what comes out of the discovery phase, but likely 
 - A Pool Pro equivalent of the First 60 Days series
 - Field Guide posts for pool-specific problem scenarios
 - Metrics and tier clarity content if pool Pro metrics differ from lawn care
+- **Featured content from Jeff Herman and his team** — Jeff's team is actively producing Pool Pro content that is a natural fit for this space. Rather than building from scratch, the space can surface and feature that content directly, giving it a permanent community home where Pool Pros can engage with it, ask follow-up questions, and find it later.
 
 ### Discovery First — What I Need to Know Before Building
 
@@ -245,6 +246,7 @@ Content will be determined by what comes out of the discovery phase, but likely 
 
 - **Trent M.** — Pool Pro, already active in the main community (10 posts, top contributor); first voice to consult
 - **Will and Shannon** — manage the LawnStarter Pool Pro Facebook page; source of raw sentiment data that isn't captured anywhere in Bettermode yet
+- **Jeff Herman and team** — actively producing Pool Pro content; coordinate on what's available to feature in the space and what's coming so the content calendar is informed by what they're already building
 - **PE rep** — confirm whether pool Pro metrics are distinct from lawn care metrics before any tier/metrics content is written
 
 ### Expected Outcome
