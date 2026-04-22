@@ -275,7 +275,7 @@ Before I can set hard baselines on the measurement targets above, I need:
 
 Items 2 and 3 are resolved. Item 3 was pulled from Bettermode analytics directly.
 
-**Zendesk access — unresolved.** Seat holder changes mean it's unclear who currently has reporting access (Nicole and Patrick may no longer have it). Going to Matt as a middleman is not a sustainable process. Preferred path: confirm whether Katherine can get direct Zendesk reporting access. If not, identify who currently holds a reporting seat and establish a standing request process.
+**Zendesk access — unresolved.** Seat holder changes mean it's unclear who currently has reporting access (Nicole and Patrick may no longer have it). Going to Matt as a middleman is not a sustainable process. Preferred path: confirm whether Katherine can get direct Zendesk reporting access. Both the access request and adding the Bettermode reference doc to Zendesk need to go through **Dustin and Seth**.
 
 ---
 

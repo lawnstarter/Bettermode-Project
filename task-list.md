@@ -11,7 +11,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 1 | ~~Pull Zendesk~~ Extracted from Matt's retention discovery (`docs/swim-lanes/retention/research/2026-03-26-support-data-findings.md`) | Katherine | ✅ Done |
 | 2 | ~~Pull data~~ Already in Brain: 56.2% of new Pros reach job 7 (11,685/20,796) — `docs/swim-lanes/retention/cold-start-blue/rating-rate-first-10.md` | Katherine | ✅ Done |
 | 3 | Pull Bettermode baseline: active Pro count + current post view rate | Katherine | ✅ Done — `data/bettermode-baseline.md` |
-| 3a | Resolve Zendesk reporting access — confirm whether Katherine can get a direct reporting seat; if not, identify who currently holds access after seat holder changes (Nicole and Patrick may no longer have it) | Katherine → Matt | ⬜ Not started |
+| 3a | Resolve Zendesk reporting access — confirm whether Katherine can get a direct reporting seat; if not, identify who currently holds access after seat holder changes (Nicole and Patrick may no longer have it) | Katherine → Dustin + Seth | ⬜ Not started |
 
 ---
 
@@ -54,7 +54,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 13 | Write + publish: Unresponsive customer — step by step | Field guide post | P1 | ✅ Done — `drafts/task-13-unresponsive-customer.md` |
 | 14 | Write + publish: Payment questions — timing, breakdowns, where to look | Field guide post | P2 | ✅ Done |
 | 15 | Write + publish: What actually affects your completion rate | Field guide post | P2 | ✅ Done — `drafts/task-15-completion-rate.md` |
-| 16 | Create + maintain Zendesk reference doc: maps ticket type to Bettermode post link — update each time a new post goes live | Zendesk pinned doc | — | ⬜ Not started |
+| 16 | Implement Zendesk reference doc: maps ticket type to Bettermode post link — requires Dustin and Seth to add and pin it in Zendesk; draft ready for their review at `drafts/zendesk-bettermode-reference.md` | Zendesk pinned doc | — | ⬜ Not started |
 
 *Zendesk reference doc (`drafts/zendesk-bettermode-reference.md`) must be updated with live links each time a Field Guide post is published.*
 
