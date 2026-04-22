@@ -165,10 +165,10 @@ An **async AMA rotation** — one standing thread per month in Ask the Community
 
 | Month | Participant | Theme |
 |-------|-------------|-------|
-| 1 | Steve, CEO | "Why things work the way they do — and where it's going" |
-| 2 | Aleah, Product & Engineering | "How your metrics actually work" |
-| 3 | Gold/Platinum Pro (peer) | "What no one told you when you started" |
-| 4 | Marketing rep | "Growing your business beyond the app" |
+| 1 | Aleah, Product & Engineering | "How your metrics actually work" |
+| 2 | Gold/Platinum Pro (peer) | "What no one told you when you started" |
+| 3 | Marketing rep | "Growing your business beyond the app" |
+| 4 | Steve, CEO | "Why things work the way they do — and where it's going" |
 
 **Format:** Katherine introduces each participant in the thread — they don't cold-start it. Participant answers replies as they come in, no schedule required. After 7–10 days (or when activity slows), Q&As are compiled into a Pro Academy post and archived so they remain searchable.
 

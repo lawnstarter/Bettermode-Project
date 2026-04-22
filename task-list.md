@@ -72,33 +72,33 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 24 | Identify + confirm marketing rep — brief on GBP/Google reviews topics, get approval on intro draft | Topics: Google Business Profile, asking for reviews, local SEO, off-platform reputation | ⬜ Not started |
 | 25 | Confirm Pro peer participant — brief on likely questions, get approval on intro draft | First choice: Scott Culala (490 all-time replies, already acts as mentor organically); backup: Arely Elrod | ⬜ Not started |
 
-### Month 1 — Steve (CEO)
+### Month 1 — Aleah (Product & Engineering)
 
 | # | Task | Format | Status |
 |---|------|--------|--------|
-| 26 | Post Steve AMA thread | Ask the Community — `drafts/ama-steve-ceo.md` | ⬜ Not started |
-| 27 | Compile Steve Q&As into FAQ post | Pro Academy — title: "You Asked, Steve Answered — [Month]" | ⬜ Not started |
+| 26 | Post Aleah AMA thread | Ask the Community — `drafts/ama-product-engineering.md` | ⬜ Not started |
+| 27 | Compile Aleah Q&As into FAQ post | Pro Academy — title: "You Asked, We Answered — [Month] with Aleah" | ⬜ Not started |
 
-### Month 2 — Aleah (Product & Engineering)
-
-| # | Task | Format | Status |
-|---|------|--------|--------|
-| 28 | Post Aleah AMA thread | Ask the Community — `drafts/ama-product-engineering.md` | ⬜ Not started |
-| 29 | Compile Aleah Q&As into FAQ post | Pro Academy — title: "You Asked, We Answered — [Month] with Aleah" | ⬜ Not started |
-
-### Month 3 — Pro Peer (Gold/Platinum)
+### Month 2 — Pro Peer (Gold/Platinum)
 
 | # | Task | Format | Status |
 |---|------|--------|--------|
-| 30 | Post Pro Peer AMA thread | Ask the Community — `drafts/ama-pro-peer.md` | ⬜ Not started |
-| 31 | Compile Pro Peer Q&As into FAQ post | Pro Academy — title: "You Asked, They Answered — [Month] with [Pro], [Tier] Pro" | ⬜ Not started |
+| 28 | Post Pro Peer AMA thread | Ask the Community — `drafts/ama-pro-peer.md` | ⬜ Not started |
+| 29 | Compile Pro Peer Q&As into FAQ post | Pro Academy — title: "You Asked, They Answered — [Month] with [Pro], [Tier] Pro" | ⬜ Not started |
 
-### Month 4 — Marketing Rep
+### Month 3 — Marketing Rep
 
 | # | Task | Format | Status |
 |---|------|--------|--------|
-| 32 | Post Marketing AMA thread | Ask the Community — `drafts/ama-marketing.md` | ⬜ Not started |
-| 33 | Compile Marketing Q&As into FAQ post | Pro Academy — title: "You Asked, We Answered — [Month] with [rep], Marketing" | ⬜ Not started |
+| 30 | Post Marketing AMA thread | Ask the Community — `drafts/ama-marketing.md` | ⬜ Not started |
+| 31 | Compile Marketing Q&As into FAQ post | Pro Academy — title: "You Asked, We Answered — [Month] with [rep], Marketing" | ⬜ Not started |
+
+### Month 4 — Steve (CEO)
+
+| # | Task | Format | Status |
+|---|------|--------|--------|
+| 32 | Post Steve AMA thread | Ask the Community — `drafts/ama-steve-ceo.md` | ⬜ Not started |
+| 33 | Compile Steve Q&As into FAQ post | Pro Academy — title: "You Asked, Steve Answered — [Month]" | ⬜ Not started |
 
 *Dependencies: Tasks 22–25 (confirmations) must be complete before their respective thread goes live. Each compile task (27, 29, 31, 33) follows its thread after 7–10 days or when activity slows.*
 

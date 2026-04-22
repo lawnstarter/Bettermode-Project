@@ -40,9 +40,9 @@ Pros react most to things that feel unfair or opaque: Pricing Issues (34 reactio
 
 | Month | Participant | Theme |
 |-------|-------------|-------|
-| 1 | Steve (CEO) | Why things work the way they do — and where it's going |
-| 2 | Aleah (PE) | How your metrics actually work |
-| 3 | Pro Peer | What no one told you when you started |
-| 4 | Marketing Rep | Growing your business beyond the app |
+| 1 | Aleah (PE) | How your metrics actually work |
+| 2 | Pro Peer | What no one told you when you started |
+| 3 | Marketing Rep | Growing your business beyond the app |
+| 4 | Steve (CEO) | Why things work the way they do — and where it's going |
 
-Rationale: Steve leads because his credibility anchors the series. Aleah follows because metrics is the dominant unresolved tension. Pro Peer comes third once the community has seen HQ engage — their candor lands better after trust is established. Marketing closes on a forward-looking note about off-platform growth.
+Rationale: Aleah leads because metrics is the dominant unresolved tension and the community needs a direct answer from the platform team. Pro Peer follows with peer credibility — candor lands better once the community has seen HQ engage honestly. Marketing closes the first half with a forward-looking off-platform growth thread. Steve anchors Month 4 — he already did a live AMA, so this async format is a natural continuation rather than a cold start, and his thread benefits from the momentum the series has built.
