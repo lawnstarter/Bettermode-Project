@@ -28,6 +28,7 @@ Content ready for review or confirmation before publishing.
 
 | File | What It Is |
 |------|------------|
+| `drafts/content-publishing-workflow.md` | 8-step publishing workflow for all content — from draft to live on Bettermode. |
 | `drafts/ama-steve-ceo.md` | Async AMA — Steve (CEO). Month 4. Async continuation of his prior live AMA. |
 | `drafts/ama-product-engineering.md` | Async AMA — PE rep. Month 1. Focused on metrics and how the platform works. |
 | `drafts/ama-pro-peer.md` | Async AMA — Gold/Platinum Pro. Month 2. Peer credibility for new Pros. First choice: Scott Culala. |

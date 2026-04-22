@@ -155,10 +155,11 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 ## Notes
 
+- **"Draft done" ≠ published.** All content marked `Draft done` still needs to go through the full publishing workflow before it goes live. See `drafts/content-publishing-workflow.md` for all 8 steps: fact check → tone pass (AI tool) → Bettermode formatting → 7-day org review → edits → asset creation (if needed) → publish.
 - **Phase 1 space setup (7a–7c) must come before publishing any First 60 Days content (7–10).** Design the space first, then activate, then publish.
 - **Braze trigger (7d–7e)** is a dependency on Callie — confirm feasibility before building anything.
 - **Field Guide posts (11–15)** are drafted and ready. Update the Zendesk reference doc (`drafts/zendesk-bettermode-reference.md`) with the live link each time one is published.
 - **AMA confirmations (22–25)** gate their respective threads — nothing goes live without the participant's approval on their intro draft.
 - **Pool Pro space (34–39)** is discovery-first — do not build before tasks 34–37 are complete.
-- All content drafts live in this repo before being published to Bettermode.
-- Update the Status column as tasks move: ⬜ Not started → 🔄 In progress → ✅ Done
+- After any content is published: update `data/bettermode-content-tracker.md` with the live link and status.
+- Update the Status column as tasks move: ⬜ Not started → 🔄 In progress → ✅ Draft done → ✅ Published
