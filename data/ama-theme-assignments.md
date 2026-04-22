@@ -36,6 +36,13 @@ Pros react most to things that feel unfair or opaque: Pricing Issues (34 reactio
 
 ---
 
+### Callie + Vinicius — Gamification
+**Theme: "How Challenges and the Leaderboard actually work"**
+
+Challenges and Leaderboard spaces have ~3,900 members vs ~8,300 in the core spaces — half the community hasn't engaged with gamification at all. Questions about bonus payouts, challenge requirements, and Leaderboard ranking currently bounce through Katherine or Support before reaching the people who actually own it. This thread puts Callie and Vinicius directly in front of Pros, cuts out the middleman, and gives the gamification features the visibility they're not currently getting.
+
+---
+
 ## Suggested Sequencing
 
 | Month | Participant | Theme |
@@ -44,5 +51,6 @@ Pros react most to things that feel unfair or opaque: Pricing Issues (34 reactio
 | 2 | Pro Peer | What no one told you when you started |
 | 3 | Marketing Rep | Growing your business beyond the app |
 | 4 | Steve (CEO) | Why things work the way they do — and where it's going |
+| 5 | Callie + Vinicius (Gamification) | How Challenges and the Leaderboard actually work |
 
 Rationale: Aleah leads because metrics is the dominant unresolved tension and the community needs a direct answer from the platform team. Pro Peer follows with peer credibility — candor lands better once the community has seen HQ engage honestly. Marketing closes the first half with a forward-looking off-platform growth thread. Steve anchors Month 4 — he already did a live AMA, so this async format is a natural continuation rather than a cold start, and his thread benefits from the momentum the series has built.

@@ -181,6 +181,7 @@ An **async AMA rotation** — one standing thread per month in Ask the Community
 | 2 | Gold/Platinum Pro (peer) | "What no one told you when you started" |
 | 3 | Marketing rep | "Growing your business beyond the app" |
 | 4 | Steve, CEO | "Why things work the way they do — and where it's going" |
+| 5 | Callie + Vinicius, Gamification | "How Challenges and the Leaderboard actually work" |
 
 **Format:** Katherine introduces each participant in the thread — they don't cold-start it. Participant answers replies as they come in, no schedule required. After 7–10 days (or when activity slows), Q&As are compiled into a Pro Academy post and archived so they remain searchable.
 
@@ -200,6 +201,7 @@ Themes are grounded in community data:
 - **PE rep** — confirm she has capacity; brief on likely question types (metrics, Wishlist, app flow)
 - **Gold/Platinum Pro** — first choice: Scott Culala (490 all-time replies, already acts as peer mentor organically); backup: Arely Elrod
 - **Marketing rep** — identify and confirm; brief on GBP, Google reviews, local SEO
+- **Callie + Vinicius (Gamification)** — confirm both are willing; brief on support ticket pattern (gamification questions currently bounce through Katherine or Support before reaching them — this thread cuts that out)
 
 ### Expected Outcome
 
@@ -286,5 +288,5 @@ Items 2 and 3 are resolved. Item 3 was pulled from Bettermode analytics directly
 | New Pro Success (0–60 days) | Half of new Pros don't reach job 10 | 20,796 → 10,217 by job 10; intervention window is jobs 1–7 | Reduce early attrition; reduce tier/rating support tickets from new Pros |
 | High-Frequency Problem Scenarios | 40% of schedules hit a problem; Pros have no proactive guidance | 3.5% ticket-to-service ratio; 43% cancel rate on first-job issues | Deflect predictable support tickets; protect customer retention |
 | Tier System Clarity | Rating/tier confusion is #3 support ticket; creates defensive Pro behavior | 35% → 63% Blue attainment lift possible in coachable middle | Reduce tier confusion tickets; increase Blue attainment in mid-rated Pros |
-| Expert Access Rotation (AMA Series) | HQ drives 32% of all community activity; dominant topics need trusted expert voices | Metrics: 3 of top 10 posts by replies; 32% admin share of activity | Reduce admin activity share; build searchable library of expert answers on top Pro concerns |
+| Expert Access Rotation (AMA Series) | HQ drives 32% of all community activity; dominant topics need trusted expert voices; gamification questions bounce through Katherine/Support before reaching the right team | Metrics: 3 of top 10 posts by replies; Challenges/Leaderboard spaces at ~50% of core space membership | Reduce admin activity share; eliminate middleman routing for gamification questions; build searchable expert answer library |
 | Pool Pro Space | Pool Pros have no dedicated community home; questions and sentiment live only on Facebook | Hidden Bettermode space exists but is unactivated; Facebook page is untapped signal | Give Pool Pros a dedicated space grounded in their actual problems |

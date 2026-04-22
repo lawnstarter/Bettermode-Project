@@ -89,6 +89,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 23 | Confirm PE rep — brief on likely question types, get approval on her intro draft | Expected topics: metrics, Wishlist items, app flow gaps, job queue logic | ⬜ Not started |
 | 24 | Identify + confirm marketing rep — brief on GBP/Google reviews topics, get approval on intro draft | Topics: Google Business Profile, asking for reviews, local SEO, off-platform reputation | ⬜ Not started |
 | 25 | Confirm Pro peer participant — brief on likely questions, get approval on intro draft | First choice: Scott Culala (490 all-time replies, already acts as mentor organically); backup: Arely Elrod | ⬜ Not started |
+| 25a | Confirm Callie and Vinicius (Gamification) — brief on support ticket pattern, get approval on their intro draft | Gamification questions currently bounce through Katherine or Support before reaching them — this thread eliminates that routing | ⬜ Not started |
 
 ### Month 1 — PE rep (Product & Engineering)
 
@@ -118,7 +119,14 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 32 | Post Steve AMA thread | Ask the Community — `drafts/ama-steve-ceo.md` | ⬜ Not started |
 | 33 | Compile Steve Q&As into FAQ post | Pro Academy — title: "You Asked, Steve Answered — [Month]" | ⬜ Not started |
 
-*Dependencies: Tasks 22–25 (confirmations) must be complete before their respective thread goes live. Each compile task (27, 29, 31, 33) follows its thread after 7–10 days or when activity slows.*
+### Month 5 — Callie + Vinicius (Gamification)
+
+| # | Task | Format | Status |
+|---|------|--------|--------|
+| 34a | Post Gamification AMA thread | Ask the Community — `drafts/ama-gamification.md` | ⬜ Not started |
+| 34b | Compile Gamification Q&As into FAQ post | Pro Academy — title: "You Asked, We Answered — [Month] with Callie and Vinicius, Gamification" | ⬜ Not started |
+
+*Dependencies: Tasks 22–25a (confirmations) must be complete before their respective thread goes live. Each compile task follows its thread after 7–10 days or when activity slows.*
 
 ---
 
