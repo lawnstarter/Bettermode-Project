@@ -20,15 +20,16 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Notes | Status |
 |---|------|-------|--------|
-| 7a | Activate hidden Bettermode space for First 60 Days | Configure name, description, visibility — open to all members, framed for new Pros | ⬜ Not started |
-| 7b | Write and pin space welcome post | Brief intro explaining what this space is and how to use it — not a content post, just orientation | ⬜ Not started |
+| 7a | Design the First 60 Days space in Bettermode Design Studio | Layout, branding, section structure — should feel distinct from the main community and immediately clear to a new Pro what this space is for | ⬜ Not started |
+| 7b | Activate hidden Bettermode space for First 60 Days | Configure name, description, visibility — open to all members, framed for new Pros | ⬜ Not started |
+| 7c | Write and pin space welcome post | Brief intro explaining what this space is and how to use it — not a content post, just orientation | ⬜ Not started |
 
 ### Distribution — Braze Trigger
 
 | # | Task | Notes | Status |
 |---|------|-------|--------|
-| 7c | Confirm feasibility with Callie — can Braze trigger a follow-up text with the First 60 Days space link after a new Pro joins the community? | Need to know: (1) does Bettermode fire a joinable event Braze can listen to, and (2) can it be added to the existing new Pro journey without disrupting what's live | ⬜ Not started |
-| 7d | If confirmed: implement Braze trigger — follow-up text with First 60 Days space link fires after new Pro joins community | Dependent on 7a (space must be live with a real link before this can be built) | ⬜ Not started |
+| 7d | Confirm feasibility with Callie — can Braze trigger a follow-up text with the First 60 Days space link after a new Pro joins the community? | Need to know: (1) does Bettermode fire a joinable event Braze can listen to, and (2) can it be added to the existing new Pro journey without disrupting what's live | ⬜ Not started |
+| 7e | If confirmed: implement Braze trigger — follow-up text with First 60 Days space link fires after new Pro joins community | Dependent on 7b (space must be live with a real link before this can be built) | ⬜ Not started |
 
 ### Content
 
