@@ -134,13 +134,13 @@ After publishing:
 | Long Grass — What to Do and Why Photos Are Everything | `drafts/task-11-long-grass.md` | `Draft done` |
 | When the Customer Cancels on You | `drafts/task-12-customer-cancels.md` | `Draft done` |
 | Unresponsive Customer — Step by Step | `drafts/task-13-unresponsive-customer.md` | `Draft done` |
-| What Actually Affects Your Completion Rate | `drafts/task-15-completion-rate.md` | `Draft done` |
+| What Actually Affects Your Completion Rate | `drafts/task-14-completion-rate.md` | `Draft done` |
 
 ### Tier System Clarity
 
 | Post | File | Status |
 |------|------|--------|
-| How the Tier System Actually Works | `drafts/task-17-tier-system-explainer.md` | `Draft done` |
-| Your Tier, Your Rewards | `drafts/task-17-tiers-and-rewards.md` | `Draft done` |
-| Blue Attainment Milestone Recognition — Process + Template | `drafts/task-18-blue-milestone-recognition.md` | `Draft done` |
-| Monthly Q&A Thread: "What's Moving Your Score" — First Instance + Recurring Template | `drafts/task-19-monthly-qa-thread.md` | `Draft done` |
+| How the Tier System Actually Works | `drafts/task-15-tier-system-explainer.md` | `Draft done` |
+| Your Tier, Your Rewards | `drafts/task-16-tiers-and-rewards.md` | `Draft done` |
+| Blue Attainment Milestone Recognition — Process + Template | `drafts/task-17-blue-milestone-recognition.md` | `Draft done` |
+| Monthly Q&A Thread: "What's Moving Your Score" — First Instance + Recurring Template | `drafts/task-18-monthly-qa-thread.md` | `Draft done` |

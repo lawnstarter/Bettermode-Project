@@ -24,12 +24,12 @@ Add each post to this list when it goes live. Record its publish date — the 30
 
 | Post | Draft file | Publish date | 30-day target date |
 |---|---|---|---|
-| Your Tier, Your Rewards | `drafts/task-17-tiers-and-rewards.md` | | |
+| Your Tier, Your Rewards | `drafts/task-16-tiers-and-rewards.md` | | |
 | Long Grass — What to Do and Why Photos Are Everything | `drafts/task-11-long-grass.md` | | |
 | Your First Payout *(already live)* | — | Pre-baseline | — |
 | When the Customer Cancels on You | `drafts/task-12-customer-cancels.md` | | |
 | Unresponsive Customer — Step by Step | `drafts/task-13-unresponsive-customer.md` | | |
-| What Actually Affects Your Completion Rate | `drafts/task-15-completion-rate.md` | | |
+| What Actually Affects Your Completion Rate | `drafts/task-14-completion-rate.md` | | |
 | Getting Your First Job — What to Expect | `drafts/task-07-getting-first-job.md` | | |
 | Your First Service | `drafts/task-08-your-first-service.md` | | |
 | Understanding Your Tier Score | `drafts/task-09-understanding-tier-score.md` | | |

@@ -41,8 +41,8 @@ Content ready for review or confirmation before publishing.
 | `drafts/ama-marketing.md` | Async AMA — Marketing rep. Month 3. Google reviews, GBP, off-platform growth. |
 | `drafts/ama-gamification.md` | Async AMA — Callie + Vinicius (Gamification). Month 5. Challenges, Leaderboard, bonus payouts. |
 | `drafts/task-07` through `task-10` | First 60 Days series — drafts ready to publish once space is live |
-| `drafts/task-11` through `task-15` | Field Guide posts — problem scenario content for Pros |
-| `drafts/task-17` through `task-19` | Tier explainer, Blue milestone recognition, monthly Q&A thread |
+| `drafts/task-11` through `task-14` | Field Guide posts — problem scenario content for Pros |
+| `drafts/task-15` through `task-18` | Tier explainer, Blue milestone recognition, monthly Q&A thread |
 | `drafts/zendesk-bettermode-reference.md` | Zendesk internal reference doc — maps ticket type to Bettermode post link. Draft for Matt's review. |
 
 ---

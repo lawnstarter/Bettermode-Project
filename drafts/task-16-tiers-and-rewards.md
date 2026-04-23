@@ -84,4 +84,4 @@ Any questions on what you're eligible for at your current tier — drop them bel
 
 - Pin alongside the metrics post
 - Update the metrics post to link back to this one once live
-- This replaces the broader tier explainer drafted in `task-17-tier-system-explainer.md` — that draft is now redundant given the metrics post is already live
+- This replaces the broader tier explainer drafted in `task-15-tier-system-explainer.md` — that draft is now redundant given the metrics post is already live

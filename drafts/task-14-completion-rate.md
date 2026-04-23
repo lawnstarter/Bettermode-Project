@@ -105,6 +105,6 @@ Completion rate surprising you? Drop what you're seeing — happy to help make s
 ## PUBLISHING NOTES
 
 - Field Guide series — tag consistently with other Field Guide posts
-- Cross-link to tiers and rewards post (`drafts/task-17-tiers-and-rewards.md`) — "lowest metric" point connects directly
+- Cross-link to tiers and rewards post (`drafts/task-16-tiers-and-rewards.md`) — "lowest metric" point connects directly
 - Cross-link to unresponsive customer post (`drafts/task-13-unresponsive-customer.md`) for the skip-correctly section
 - Source docs: `docs/references/pro-journey/performance-mgmt.md`, `docs/references/pro-kb/guidelines-navigating-account-health-and-challenges.md`, `data/zendesk-new-pro-baseline.md` (Pro quote)

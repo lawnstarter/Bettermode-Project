@@ -53,7 +53,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 | 12 | Write + publish: When the customer cancels on you — what to do right now | Field guide post | P1 | ✅ Done — `drafts/task-12-customer-cancels.md` |
 | 13 | Write + publish: Unresponsive customer — step by step | Field guide post | P1 | ✅ Done — `drafts/task-13-unresponsive-customer.md` |
 | 14 | Write + publish: Payment questions — timing, breakdowns, where to look | Field guide post | P2 | ✅ Done |
-| 15 | Write + publish: What actually affects your completion rate | Field guide post | P2 | ✅ Done — `drafts/task-15-completion-rate.md` |
+| 15 | Write + publish: What actually affects your completion rate | Field guide post | P2 | ✅ Done — `drafts/task-14-completion-rate.md` |
 | 16 | Implement Zendesk reference doc: maps ticket type to Bettermode post link — requires Dustin and Seth to add and pin it in Zendesk; draft ready for their review at `drafts/zendesk-bettermode-reference.md` | Zendesk pinned doc | — | ⬜ Not started |
 
 *Zendesk reference doc (`drafts/zendesk-bettermode-reference.md`) must be updated with live links each time a Field Guide post is published.*
@@ -64,9 +64,9 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Format | Priority | Status |
 |---|------|--------|----------|--------|
-| 17 | Write + pin: Tiers and rewards explainer | Pinned post | P1 | ✅ Done — `drafts/task-17-tiers-and-rewards.md` |
-| 18 | Set up milestone recognition system: Blue attainment celebration posts (opt-in) | Process + template | P2 | ✅ Done — `drafts/task-18-blue-milestone-recognition.md` |
-| 19 | Launch monthly "What's moving your score" Q&A thread (recurring, first instance) | Monthly thread | P2 | ✅ Done — `drafts/task-19-monthly-qa-thread.md` |
+| 17 | Write + pin: Tiers and rewards explainer | Pinned post | P1 | ✅ Done — `drafts/task-16-tiers-and-rewards.md` |
+| 18 | Set up milestone recognition system: Blue attainment celebration posts (opt-in) | Process + template | P2 | ✅ Done — `drafts/task-17-blue-milestone-recognition.md` |
+| 19 | Launch monthly "What's moving your score" Q&A thread (recurring, first instance) | Monthly thread | P2 | ✅ Done — `drafts/task-18-monthly-qa-thread.md` |
 
 ---
 
