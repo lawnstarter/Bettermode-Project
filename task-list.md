@@ -21,7 +21,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Notes | Status |
 |---|------|-------|--------|
-| 7a | Design the First 60 Days space in Bettermode Design Studio | Layout, branding, section structure — should feel distinct from the main community and immediately clear to a new Pro what this space is for | ⬜ Not started |
+| 7a | Design the First 60 Days space in Bettermode Design Studio | Layout, branding, section structure — should feel distinct from the main community and immediately clear to a new Pro what this space is for | 🔄 In progress |
 | 7b | Activate hidden Bettermode space for First 60 Days | Configure name, description, visibility — open to all members, framed for new Pros | ⬜ Not started |
 | 7c | Write and pin space welcome post | Brief intro explaining what this space is and how to use it — not a content post, just orientation | ⬜ Not started |
 
