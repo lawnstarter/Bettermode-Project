@@ -122,7 +122,7 @@ After publishing:
 
 | Post | File | Status |
 |------|------|--------|
-| Post 1 of 4 — Getting Your First Job: What to Expect | `drafts/task-07-getting-first-job.md` | `Draft done` |
-| Post 2 of 4 — Your First Service: Photos, Long Grass, Completing Correctly | `drafts/task-08-your-first-service.md` | `Draft done` |
-| Post 3 of 4 — Understanding Your Tier Score: What Moves It, What Doesn't | `drafts/task-09-understanding-tier-score.md` | `Draft done` |
-| Post 4 of 4 — Getting to Blue: What It Means and How to Get There | `drafts/task-10-getting-to-blue.md` | `Draft done` |
+| Post 1 of 4 — Getting Your First Job: What to Expect | `drafts/task-07-getting-first-job.md` | `In review` |
+| Post 2 of 4 — Your First Service: Photos, Long Grass, Completing Correctly | `drafts/task-08-your-first-service.md` | `In review` |
+| Post 3 of 4 — Understanding Your Tier Score: What Moves It, What Doesn't | `drafts/task-09-understanding-tier-score.md` | `In review` |
+| Post 4 of 4 — Getting to Blue: What It Means and How to Get There | `drafts/task-10-getting-to-blue.md` | `In review` |

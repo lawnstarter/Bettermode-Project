@@ -1,7 +1,7 @@
 # DRAFT: Getting to Blue — What It Means and How to Get There
 **Task:** 10
 **Format:** Short post + 1 action (First 60 Days series)
-**Status:** Draft — ready for org review (not yet shared)
+**Status:** In review
 
 ---
 

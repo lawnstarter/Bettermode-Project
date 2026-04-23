@@ -1,7 +1,7 @@
 # DRAFT: Your First Service — Photos, Long Grass, Completing Correctly
 **Task:** 8
 **Format:** Short post + 1 action (First 60 Days series)
-**Status:** Draft — ready for org review (not yet shared)
+**Status:** In review
 
 ---
 
