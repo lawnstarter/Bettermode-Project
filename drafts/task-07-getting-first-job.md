@@ -1,7 +1,7 @@
 # DRAFT: Getting Your First Job — What to Expect
 **Task:** 7
 **Format:** Short post + 1 action (First 60 Days series)
-**Status:** Draft — in review
+**Status:** Draft — ready for org review (not yet shared)
 
 ---
 
