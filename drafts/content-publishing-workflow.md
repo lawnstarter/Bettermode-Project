@@ -113,3 +113,16 @@ After publishing:
 - Step 5 (org review) is the only step with an external dependency and a time window — start it early enough that it doesn't delay the publish date
 - Steps can overlap slightly (e.g., formatting while waiting on a fact-check response) but don't skip
 - Asset creation (Step 7) should be flagged at Step 4 so production can happen in parallel with org review
+
+---
+
+## Content Status Tracker
+
+### First 60 Days Series
+
+| Post | File | Status |
+|------|------|--------|
+| Post 1 of 4 — Getting Your First Job: What to Expect | `drafts/task-07-getting-first-job.md` | `Draft done` |
+| Post 2 of 4 — Your First Service: Photos, Long Grass, Completing Correctly | `drafts/task-08-your-first-service.md` | `Draft done` |
+| Post 3 of 4 — Understanding Your Tier Score: What Moves It, What Doesn't | `drafts/task-09-understanding-tier-score.md` | `Draft done` |
+| Post 4 of 4 — Getting to Blue: What It Means and How to Get There | `drafts/task-10-getting-to-blue.md` | `Draft done` |
