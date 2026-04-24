@@ -123,9 +123,9 @@ When a post hits its 30-day mark, record final results here.
 
 Per the strategy doc:
 - **Field Guide posts:** 25+ unique views per post within 30 days of publishing
-- **Tier content:** 20%+ of community members view at least one tier post per month
+- **Tier content:** 15%+ of community members view at least one tier post per month
   - Current active members/week: 325 → monthly ~1,300 unique
-  - 20% threshold: ~260 members
+  - 15% threshold: ~195 members
   - Measure: combined views on tier-related posts (tasks 9, 10, 17) in a given month
 
 ---

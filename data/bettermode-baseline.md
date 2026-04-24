@@ -89,9 +89,9 @@
 
 | Strategy target | Baseline | Assessment |
 |---|---|---|
-| "15%+ of active new Pros view at least one post" | 325 active/week; 8,420 total members | Need 30-day active count to set exact denominator — use 325×4 ≈ 1,300/month as working estimate |
+| "10%+ of active new Pros view at least one post" | 325 active/week; 8,420 total members | Need 30-day active count to set exact denominator — use 325×4 ≈ 1,300/month as working estimate |
 | "25 unique views per post within 30 days" | Recent active posts getting 59–151 views in 7 days | Target is conservative — well-distributed posts should clear it easily |
-| "20%+ of community members view at least one tier post/month" | No tier-specific content exists yet — 0 baseline | First tier post will establish this baseline |
+| "15%+ of community members view at least one tier post/month" | No tier-specific content exists yet — 0 baseline | First tier post will establish this baseline |
 | Net new members growth | +201/week (+14.86%) | Community is actively growing — good timing for new content |
 
 ---

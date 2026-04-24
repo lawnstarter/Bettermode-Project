@@ -91,9 +91,9 @@ Only track the subcategories our content directly targets. Everything else is no
 ## What Success Looks Like
 
 Per the strategy doc:
-- **long_grass_problem:** -15% within 60 days of content going live
-- **scheduling_problem + service_help (unresponsive/cancel):** -20% within 60 days
-- **account_help (tier confusion):** -20% within 90 days
+- **long_grass_problem:** -10% within 60 days of content going live
+- **scheduling_problem + service_help (unresponsive/cancel):** -15% within 60 days
+- **account_help (tier confusion):** -10% within 90 days
 
 These are directional targets. A single month of data isn't enough — look for a trend over 2–3 months.
 
