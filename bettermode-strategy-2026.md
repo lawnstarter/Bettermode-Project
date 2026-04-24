@@ -87,8 +87,8 @@ New Pros who engage with this content understand the tier system and what to do 
 
 | Metric | Baseline | Target |
 |--------|----------|--------|
-| Support ticket volume: rating/tier questions from Pros < 60 days | TBD (pull from Zendesk) | -20% within 90 days |
-| Bettermode engagement on new-Pro content | 0 (new) | 15%+ of active new Pros view at least one post |
+| Support ticket volume: rating/tier questions from Pros < 60 days | TBD (pull from Zendesk) | -10% within 90 days |
+| Bettermode engagement on new-Pro content | 0 (new) | 10%+ of active new Pros view at least one post |
 | New Pro completion rate at job 7 | TBD (pull from data) | Hold or improve vs. current cohort |
 
 ---
@@ -134,8 +134,8 @@ Pros who encounter a problem scenario know what to do without calling support. T
 
 | Metric | Baseline | Target |
 |--------|----------|--------|
-| Support tickets: long grass disputes | TBD | -15% within 60 days of content going live |
-| Support tickets: unresponsive customer / customer cancellation | TBD | -20% within 60 days |
+| Support tickets: long grass disputes | TBD | -10% within 60 days of content going live |
+| Support tickets: unresponsive customer / customer cancellation | TBD | -15% within 60 days |
 | Bettermode views on Field Guide posts | 0 (new) | Track weekly; at least 25 unique views per post within 30 days |
 
 ---
@@ -169,9 +169,9 @@ Pros understand their tier score well enough to work with it rather than around 
 
 | Metric | Baseline | Target |
 |--------|----------|--------|
-| Support tickets: rating/tier confusion | TBD | -20% within 90 days |
+| Support tickets: rating/tier confusion | TBD | -10% within 90 days |
 | Blue attainment rate: 4.00–4.49 bucket at 3 ratings | ~35% currently | Track vs. new-Pro cohorts exposed to content |
-| Bettermode engagement on tier content | 0 (new) | 20%+ of community members view at least one tier post/month |
+| Bettermode engagement on tier content | 0 (new) | 15%+ of community members view at least one tier post/month |
 
 ---
 
@@ -222,7 +222,7 @@ The dominant unresolved topics get addressed by the people best positioned to an
 | Metric | Baseline | Target |
 |--------|----------|--------|
 | Admin share of total community activity | 32% | Under 25% by end of Q2 |
-| AMA thread engagement (replies + reactions per thread) | 0 (new) | 20+ combined per thread |
+| AMA thread engagement (replies + reactions per thread) | 0 (new) | 10+ combined per thread |
 | Pro Academy FAQ views | 0 (new) | 50+ views per compiled post within 30 days |
 
 ---
