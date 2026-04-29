@@ -53,12 +53,14 @@ None of these are exotic. They're predictable. We know them already. The gap is 
 
 **A structured "First 60 Days" content series** — not a formal course, not a drip campaign. A living set of pinned posts and threads that answer the questions new Pros have at the moment they have them.
 
-| Week | Topic | Tied to |
-|------|-------|---------|
-| Week 1–2 | Getting your first job: what to expect, how the queue works | New Pro drop-off before job 1 |
-| Week 2–3 | Your first service: photos, long grass, completing correctly | First-job cancellation risk (customers 50% more likely to cancel if first service misses) |
-| Week 3–5 | Understanding your tier score: what moves it, what doesn't | Rating/tier confusion is the #3 support ticket type |
-| Week 5–7 | Getting to Blue: what Blue actually means and how to get there | 65% of Pros with ≥4.8 avg at 3 ratings reach Blue — this is achievable and they should know it |
+All four posts publish simultaneously on 5/1/2026 — pinned and ordered in the First 60 Days space so new Pros can move through them at their own pace.
+
+| # | Topic | Tied to |
+|---|-------|---------|
+| 1 | Getting your first job: what to expect, how the queue works | New Pro drop-off before job 1 |
+| 2 | Your first service: photos, long grass, completing correctly | First-job cancellation risk (customers 50% more likely to cancel if first service misses) |
+| 3 | Understanding your tier score: what moves it, what doesn't | Rating/tier confusion is the #3 support ticket type |
+| 4 | Getting to Blue: what Blue actually means and how to get there | 65% of Pros with ≥4.8 avg at 3 ratings reach Blue — this is achievable and they should know it |
 
 **Format:** Short posts with a clear answer + one action. No walls of text. Visual where possible.
 
