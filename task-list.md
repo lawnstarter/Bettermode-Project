@@ -21,25 +21,25 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Notes | Status |
 |---|------|-------|--------|
-| 7a | Design the First 60 Days space in Bettermode Design Studio | Layout, branding, section structure — should feel distinct from the main community and immediately clear to a new Pro what this space is for | 🔄 In progress |
-| 7b | Activate hidden Bettermode space for First 60 Days | Configure name, description, visibility — open to all members, framed for new Pros | ⬜ Not started |
-| 7c | Write and pin space welcome post | Brief intro explaining what this space is and how to use it — not a content post, just orientation | ⬜ Not started |
+| 7a | Design the First 60 Days space in Bettermode Design Studio | Added a space inside the existing Pro Academy space to house First 60 Days posts — space is designed and ready for content | ✅ Done |
+| 7b | Activate hidden Bettermode space for First 60 Days | Space is live and visible to Pros — no content posted yet | ✅ Done |
+
 
 ### Distribution — Braze Trigger
 
 | # | Task | Notes | Status |
 |---|------|-------|--------|
-| 7d | Confirm feasibility with Callie — can Braze trigger a follow-up text with the First 60 Days space link after a new Pro joins the community? | Need to know: (1) does Bettermode fire a joinable event Braze can listen to, and (2) can it be added to the existing new Pro journey without disrupting what's live | ⬜ Not started |
+| 7d | Confirm feasibility with Callie — can Braze trigger a follow-up text with the First 60 Days space link after a new Pro joins the community? | Reached out to Callie — awaiting response | 🔄 In progress |
 | 7e | If confirmed: implement Braze trigger — follow-up text with First 60 Days space link fires after new Pro joins community | Dependent on 7b (space must be live with a real link before this can be built) | ⬜ Not started |
 
 ### Content
 
 | # | Task | Format | Priority | Status |
 |---|------|--------|----------|--------|
-| 7 | Publish: "Getting your first job — what to expect, how the queue works" | Short post + 1 action | P1 | ✅ Draft done — `drafts/task-07-getting-first-job.md` |
-| 8 | Publish: "Your first service — photos, long grass, completing correctly" | Short post + 1 action | P1 | ✅ Draft done — `drafts/task-08-your-first-service.md` |
-| 9 | Publish: "Understanding your tier score — what moves it, what doesn't" | Short post + 1 action | P1 | ✅ Draft done — `drafts/task-09-understanding-tier-score.md` |
-| 10 | Publish: "Getting to Blue — what it means and how to get there" | Short post + 1 action | P1 | ✅ Draft done — `drafts/task-10-getting-to-blue.md` |
+| 7 | Publish: "Getting your first job — what to expect, how the queue works" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 5/1/2026 |
+| 8 | Publish: "Your first service — photos, long grass, completing correctly" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 5/1/2026 |
+| 9 | Publish: "Understanding your tier score — what moves it, what doesn't" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 5/1/2026 |
+| 10 | Publish: "Getting to Blue — what it means and how to get there" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 5/1/2026 |
 
 *Dependencies: Tasks 7a and 7b before publishing any content. Tasks 1 and 2 must be complete before publishing — baselines needed for measurement.*
 
@@ -49,11 +49,11 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Format | Priority | Status |
 |---|------|--------|----------|--------|
-| 11 | Write + publish: Long grass — how to report it, document it, why photos matter | Field guide post | P1 | ✅ Done — `drafts/task-11-long-grass.md` |
-| 12 | Write + publish: When the customer cancels on you — what to do right now | Field guide post | P1 | ✅ Done — `drafts/task-12-customer-cancels.md` |
-| 13 | Write + publish: Unresponsive customer — step by step | Field guide post | P1 | ✅ Done — `drafts/task-13-unresponsive-customer.md` |
+| 11 | Write + publish: Long grass — how to report it, document it, why photos matter | Field guide post | P1 | 🔄 In org review — `drafts/task-11-long-grass.md` |
+| 12 | Write + publish: When the customer cancels on you — what to do right now | Field guide post | P1 | 🔄 In org review — `drafts/task-12-customer-cancels.md` |
+| 13 | Write + publish: Unresponsive customer — step by step | Field guide post | P1 | 🔄 In org review — `drafts/task-13-unresponsive-customer.md` |
 | 14 | Write + publish: Payment questions — timing, breakdowns, where to look | Field guide post | P2 | ✅ Done |
-| 15 | Write + publish: What actually affects your completion rate | Field guide post | P2 | ✅ Done — `drafts/task-14-completion-rate.md` |
+| 15 | Write + publish: What actually affects your completion rate | Field guide post | P2 | 🔄 In org review — `drafts/task-14-completion-rate.md` |
 | 16 | Implement Zendesk reference doc: maps ticket type to Bettermode post link — requires Dustin and Seth to add and pin it in Zendesk; draft ready for their review at `drafts/zendesk-bettermode-reference.md` | Zendesk pinned doc | — | ⬜ Not started |
 
 *Zendesk reference doc (`drafts/zendesk-bettermode-reference.md`) must be updated with live links each time a Field Guide post is published.*
