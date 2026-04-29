@@ -122,19 +122,19 @@ After publishing:
 
 | Post | File | Status |
 |------|------|--------|
-| Post 1 of 4 — Getting Your First Job: What to Expect | `drafts/task-07-getting-first-job.md` | `In review` |
-| Post 2 of 4 — Your First Service: Photos, Long Grass, Completing Correctly | `drafts/task-08-your-first-service.md` | `In review` |
-| Post 3 of 4 — Understanding Your Tier Score: What Moves It, What Doesn't | `drafts/task-09-understanding-tier-score.md` | `In review` |
-| Post 4 of 4 — Getting to Blue: What It Means and How to Get There | `drafts/task-10-getting-to-blue.md` | `In review` |
+| Post 1 of 4 — Getting Your First Job: What to Expect | `drafts/task-07-getting-first-job.md` | `Final draft — publishing 5/1/2026` |
+| Post 2 of 4 — Your First Service: Photos, Long Grass, Completing Correctly | `drafts/task-08-your-first-service.md` | `Final draft — publishing 5/1/2026` |
+| Post 3 of 4 — Understanding Your Tier Score: What Moves It, What Doesn't | `drafts/task-09-understanding-tier-score.md` | `Final draft — publishing 5/1/2026` |
+| Post 4 of 4 — Getting to Blue: What It Means and How to Get There | `drafts/task-10-getting-to-blue.md` | `Final draft — publishing 5/1/2026` |
 
 ### Field Guide Series
 
 | Post | File | Status |
 |------|------|--------|
-| Long Grass — What to Do and Why Photos Are Everything | `drafts/task-11-long-grass.md` | `Draft done` |
-| When the Customer Cancels on You | `drafts/task-12-customer-cancels.md` | `Draft done` |
-| Unresponsive Customer — Step by Step | `drafts/task-13-unresponsive-customer.md` | `Draft done` |
-| What Actually Affects Your Completion Rate | `drafts/task-14-completion-rate.md` | `Draft done` |
+| Long Grass — What to Do and Why Photos Are Everything | `drafts/task-11-long-grass.md` | `In org review` |
+| When the Customer Cancels on You | `drafts/task-12-customer-cancels.md` | `In org review` |
+| Unresponsive Customer — Step by Step | `drafts/task-13-unresponsive-customer.md` | `In org review` |
+| What Actually Affects Your Completion Rate | `drafts/task-14-completion-rate.md` | `In org review` |
 
 ### Tier System Clarity
 
