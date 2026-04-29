@@ -33,10 +33,14 @@ When a Pro asks a question covered by a Bettermode post, paste the link directly
 
 ## New Pro — First 60 Days
 
+All four posts publish 5/1/2026 in the First 60 Days space inside Pro Academy.
+
 | Ticket Type | Bettermode Post | Link |
 |-------------|-----------------|------|
-| When will I get my first job? | Getting your first job: what to expect | [link when live] |
+| When will I get my first job? | Getting your first job: what to expect, how the queue works | [link when live] |
 | How do I complete a job correctly? / Photo questions | Your first service: photos, long grass, completing correctly | [link when live] |
+| New Pro asking how tier score works, what moves it | Understanding your tier score: what moves it, what doesn't | [link when live] |
+| New Pro asking about Blue — how to get there | Getting to Blue: what it means and how to get there | [link when live] |
 
 ---
 
