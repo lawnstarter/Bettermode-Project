@@ -1,7 +1,7 @@
 # DRAFT: When the Customer Cancels on You
 Task: 12
 Format: Field guide post
-Status: Draft — in review
+Status: In org review
 
 ---
 

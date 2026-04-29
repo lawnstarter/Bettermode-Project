@@ -1,7 +1,7 @@
 # DRAFT: Long Grass — What to Do and Why Photos Are Everything
 Task: 11
 Format: Field guide post
-Status: Draft — in review
+Status: In org review
 
 ---
 

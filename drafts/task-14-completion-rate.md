@@ -1,7 +1,7 @@
 # DRAFT: What Actually Affects Your Completion Rate
 Task: 15
 Format: Field guide post
-Status: Draft — in review
+Status: In org review
 
 ---
 
