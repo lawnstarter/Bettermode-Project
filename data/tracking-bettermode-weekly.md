@@ -30,10 +30,10 @@ Add each post to this list when it goes live. Record its publish date — the 30
 | When the Customer Cancels on You | `drafts/task-12-customer-cancels.md` | | |
 | Unresponsive Customer — Step by Step | `drafts/task-13-unresponsive-customer.md` | | |
 | What Actually Affects Your Completion Rate | `drafts/task-14-completion-rate.md` | | |
-| Getting Your First Job — What to Expect | `drafts/task-07-getting-first-job.md` | | |
-| Your First Service | `drafts/task-08-your-first-service.md` | | |
-| Understanding Your Tier Score | `drafts/task-09-understanding-tier-score.md` | | |
-| Getting to Blue | `drafts/task-10-getting-to-blue.md` | | |
+| Getting Your First Job — What to Expect | `drafts/task-07-getting-first-job.md` | 4/30/2026 | May 30, 2026 |
+| Your First Service | `drafts/task-08-your-first-service.md` | 4/30/2026 | May 30, 2026 |
+| Understanding Your Tier Score | `drafts/task-09-understanding-tier-score.md` | 4/30/2026 | May 30, 2026 |
+| Getting to Blue | `drafts/task-10-getting-to-blue.md` | 4/30/2026 | May 30, 2026 |
 
 ---
 

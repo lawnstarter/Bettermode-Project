@@ -36,10 +36,10 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Format | Priority | Status |
 |---|------|--------|----------|--------|
-| 7 | Publish: "Getting your first job — what to expect, how the queue works" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 4/30/2026 |
-| 8 | Publish: "Your first service — photos, long grass, completing correctly" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 4/30/2026 |
-| 9 | Publish: "Understanding your tier score — what moves it, what doesn't" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 4/30/2026 |
-| 10 | Publish: "Getting to Blue — what it means and how to get there" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 4/30/2026 |
+| 7 | Publish: "Getting your first job — what to expect, how the queue works" | Short post + 1 action | P1 | ✅ Published 4/30/2026 |
+| 8 | Publish: "Your first service — photos, long grass, completing correctly" | Short post + 1 action | P1 | ✅ Published 4/30/2026 |
+| 9 | Publish: "Understanding your tier score — what moves it, what doesn't" | Short post + 1 action | P1 | ✅ Published 4/30/2026 |
+| 10 | Publish: "Getting to Blue — what it means and how to get there" | Short post + 1 action | P1 | ✅ Published 4/30/2026 |
 
 *Dependencies: Tasks 7a and 7b before publishing any content. Tasks 1 and 2 must be complete before publishing — baselines needed for measurement.*
 

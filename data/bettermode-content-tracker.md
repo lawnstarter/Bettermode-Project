@@ -10,6 +10,19 @@ Tracks all content published to Bettermode Pro Academy. Use to audit what's live
 
 ---
 
+## First 60 Days (New Pro Series)
+
+Published 4/30/2026. Four-part series pinned in the First 60 Days space inside Pro Academy. Braze trigger in progress (Callie) — will text new Pros after they join the community and send them here.
+
+| Title | Type | Status | Version | Published | Link |
+|-------|------|--------|---------|-----------|------|
+| Getting Your First Job — What to Expect | Pro Academy | Live | v1 | 04/2026 | *(add link)* |
+| Your First Service — Photos, Long Grass, Completing Correctly | Pro Academy | Live | v1 | 04/2026 | *(add link)* |
+| Understanding Your Tier Score — What Moves It, What Doesn't | Pro Academy | Live | v1 | 04/2026 | *(add link)* |
+| Getting to Blue — What It Means and How to Get There | Pro Academy | Live | v1 | 04/2026 | *(add link)* |
+
+---
+
 ## Do The Right Job (Onboarding)
 
 | Title | Type | Status | Version | Last Updated | Link |
