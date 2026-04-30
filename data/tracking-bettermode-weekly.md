@@ -30,10 +30,10 @@ Add each post to this list when it goes live. Record its publish date — the 30
 | When the Customer Cancels on You | `drafts/task-12-customer-cancels.md` | | |
 | Unresponsive Customer — Step by Step | `drafts/task-13-unresponsive-customer.md` | | |
 | What Actually Affects Your Completion Rate | `drafts/task-14-completion-rate.md` | | |
-| Getting Your First Job — What to Expect | `drafts/task-07-getting-first-job.md` | 4/30/2026 | May 30, 2026 |
-| Your First Service | `drafts/task-08-your-first-service.md` | 4/30/2026 | May 30, 2026 |
-| Understanding Your Tier Score | `drafts/task-09-understanding-tier-score.md` | 4/30/2026 | May 30, 2026 |
-| Getting to Blue | `drafts/task-10-getting-to-blue.md` | 4/30/2026 | May 30, 2026 |
+| [Getting Your First Job — What to Expect](https://community.lawnstarter.com/pro-academy/post/getting-your-first-job----what-to-expect-GVX5RmcjMgXKfec) | `drafts/task-07-getting-first-job.md` | 4/30/2026 | May 30, 2026 |
+| [Your First Service — Photos, Long Grass, Completing Correctly](https://community.lawnstarter.com/pro-academy/post/your-first-service----photos-long-grass-completing-correctly-X4SRv3Ta8SaI4no) | `drafts/task-08-your-first-service.md` | 4/30/2026 | May 30, 2026 |
+| [Understanding Your Tier Score — What Moves It, What Doesn't](https://community.lawnstarter.com/pro-academy/post/understanding-your-tier-score----what-moves-it-what-doesn-t-1TCFNY9Djgj48oc) | `drafts/task-09-understanding-tier-score.md` | 4/30/2026 | May 30, 2026 |
+| [Getting to Blue — What It Means and How to Get There](https://community.lawnstarter.com/pro-academy/post/getting-to-blue-tier----what-it-means-and-how-to-get-there-Vw2cwz2ELsC03pH) | `drafts/task-10-getting-to-blue.md` | 4/30/2026 | May 30, 2026 |
 
 ---
 

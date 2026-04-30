@@ -16,10 +16,10 @@ Published 4/30/2026. Four-part series pinned in the First 60 Days space inside P
 
 | Title | Type | Status | Version | Published | Link |
 |-------|------|--------|---------|-----------|------|
-| Getting Your First Job — What to Expect | Pro Academy | Live | v1 | 04/2026 | *(add link)* |
-| Your First Service — Photos, Long Grass, Completing Correctly | Pro Academy | Live | v1 | 04/2026 | *(add link)* |
-| Understanding Your Tier Score — What Moves It, What Doesn't | Pro Academy | Live | v1 | 04/2026 | *(add link)* |
-| Getting to Blue — What It Means and How to Get There | Pro Academy | Live | v1 | 04/2026 | *(add link)* |
+| Getting Your First Job — What to Expect | Pro Academy | Live | v1 | 04/2026 | [link](https://community.lawnstarter.com/pro-academy/post/getting-your-first-job----what-to-expect-GVX5RmcjMgXKfec) |
+| Your First Service — Photos, Long Grass, Completing Correctly | Pro Academy | Live | v1 | 04/2026 | [link](https://community.lawnstarter.com/pro-academy/post/your-first-service----photos-long-grass-completing-correctly-X4SRv3Ta8SaI4no) |
+| Understanding Your Tier Score — What Moves It, What Doesn't | Pro Academy | Live | v1 | 04/2026 | [link](https://community.lawnstarter.com/pro-academy/post/understanding-your-tier-score----what-moves-it-what-doesn-t-1TCFNY9Djgj48oc) |
+| Getting to Blue — What It Means and How to Get There | Pro Academy | Live | v1 | 04/2026 | [link](https://community.lawnstarter.com/pro-academy/post/getting-to-blue-tier----what-it-means-and-how-to-get-there-Vw2cwz2ELsC03pH) |
 
 ---
 
