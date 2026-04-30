@@ -32,15 +32,15 @@ WoW % = change vs. prior week. Calculate as: `(this week - prior week) / prior w
 
 | Week of | New Members | Active Members | Total Members | Page Views | Unique Visits | New Posts | New Replies | New Reactions | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| Mar 2, 2026 | | | | | | | | | Backfill from analytics |
-| Mar 9, 2026 | | | | | | | | | Backfill from analytics |
-| Mar 16, 2026 | | | | | | | | | Backfill from analytics |
-| Mar 23, 2026 | | | | | | | | | Backfill from analytics |
-| Mar 30, 2026 | | | | | | | | | Backfill from analytics |
-| Apr 6, 2026 | | | | | | | | | Backfill from analytics |
-| Apr 13, 2026 | | | | | | | | | Backfill from analytics |
-| **Apr 21, 2026** | **201** | **325** | **8,420** | **4,850** | **681** | **17** | **99** | — | Baseline week — pre-strategy content |
-| Apr 28, 2026 | | | | | | | | | First 60 Days content published 4/30 |
+| **Mar 6, 2026** | **170** | **480** | — | **5,550** | **857** | **22** | **77** | **43** | |
+| **Mar 13, 2026** | **112** | **411** | — | **8,980** | **1,460** | **29** | **120** | **109** | Job Completion Update post spike (2.27K views) |
+| **Mar 20, 2026** | **121** | **352** | — | **7,410** | **961** | **32** | **180** | **154** | High reply/reaction week |
+| **Mar 27, 2026** | **199** | **586** | — | **8,770** | **1,030** | **31** | **130** | **92** | Job Completion Flow Improvements post: 1.01K views |
+| **Apr 3, 2026** | **181** | **374** | — | **5,450** | **789** | **13** | **57** | **54** | |
+| **Apr 10, 2026** | **221** | **380** | — | **4,780** | **707** | **13** | **52** | **36** | |
+| **Apr 17, 2026** | **314** | **445** | — | **6,020** | **889** | **20** | **104** | **264** | |
+| **Apr 21, 2026** | **201** | **325** | **8,420** | **4,850** | **681** | **17** | **99** | — | Baseline snapshot (single-day pull, not full week) |
+| **Apr 24, 2026** | **453** | **594** | — | **5,950** | **1,310** | **16** | **69** | **46** | First 60 Days content published 4/30; week in progress |
 | May 4, 2026 | | | | | | | | | |
 | May 11, 2026 | | | | | | | | | |
 | May 18, 2026 | | | | | | | | | |
