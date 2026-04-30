@@ -36,10 +36,10 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 
 | # | Task | Format | Priority | Status |
 |---|------|--------|----------|--------|
-| 7 | Publish: "Getting your first job — what to expect, how the queue works" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 5/1/2026 |
-| 8 | Publish: "Your first service — photos, long grass, completing correctly" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 5/1/2026 |
-| 9 | Publish: "Understanding your tier score — what moves it, what doesn't" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 5/1/2026 |
-| 10 | Publish: "Getting to Blue — what it means and how to get there" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 5/1/2026 |
+| 7 | Publish: "Getting your first job — what to expect, how the queue works" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 4/30/2026 |
+| 8 | Publish: "Your first service — photos, long grass, completing correctly" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 4/30/2026 |
+| 9 | Publish: "Understanding your tier score — what moves it, what doesn't" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 4/30/2026 |
+| 10 | Publish: "Getting to Blue — what it means and how to get there" | Short post + 1 action | P1 | 🔄 Final draft — saved in Bettermode, publishing 4/30/2026 |
 
 *Dependencies: Tasks 7a and 7b before publishing any content. Tasks 1 and 2 must be complete before publishing — baselines needed for measurement.*
 
@@ -156,7 +156,7 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 ## Notes
 
 - **"Draft done" ≠ published.** All content marked `Draft done` still needs to go through the full publishing workflow before it goes live. See `drafts/content-publishing-workflow.md` for all 8 steps: fact check → tone pass (AI tool) → Bettermode formatting → 7-day org review → edits → asset creation (if needed) → publish.
-- **Phase 1 space setup (7a–7b) is complete.** Space is live and ready for content — First 60 Days posts (7–10) publish 5/1/2026.
+- **Phase 1 space setup (7a–7b) is complete.** Space is live and ready for content — First 60 Days posts (7–10) publish 4/30/2026.
 - **Braze trigger (7d–7e)** is a dependency on Callie — confirm feasibility before building anything.
 - **Field Guide posts (11–15)** are drafted and ready. Update the Zendesk reference doc (`drafts/zendesk-bettermode-reference.md`) with the live link each time one is published.
 - **AMA confirmations (22–25)** gate their respective threads — nothing goes live without the participant's approval on their intro draft.

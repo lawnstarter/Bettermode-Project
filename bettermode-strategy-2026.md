@@ -53,7 +53,7 @@ None of these are exotic. They're predictable. We know them already. The gap is 
 
 **A structured "First 60 Days" content series** — not a formal course, not a drip campaign. A living set of pinned posts and threads that answer the questions new Pros have at the moment they have them.
 
-All four posts publish simultaneously on 5/1/2026 — pinned and ordered in the First 60 Days space so new Pros can move through them at their own pace.
+All four posts publish simultaneously on 4/30/2026 — pinned and ordered in the First 60 Days space so new Pros can move through them at their own pace.
 
 | # | Topic | Tied to |
 |---|-------|---------|
