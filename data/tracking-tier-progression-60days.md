@@ -75,15 +75,15 @@ Pull these retroactively to establish what Blue attainment looked like before an
 
 | Cohort (First Job Week) | Cohort Size | Blue by Day 30 | % Blue D30 | Blue by Day 60 | % Blue D60 | Notes |
 |---|---|---|---|---|---|---|
-| Week of Feb 23, 2026 | | | | | | |
-| Week of Mar 2, 2026 | | | | | | |
-| Week of Mar 9, 2026 | | | | | | |
-| Week of Mar 16, 2026 | | | | | | |
-| Week of Mar 23, 2026 | | | | | | |
-| Week of Mar 30, 2026 | | | | | | |
-| Week of Apr 6, 2026 | | | | | | |
-| Week of Apr 13, 2026 | | | | | | |
-| Week of Apr 20, 2026 | | | | | | Pre-content; 60 days closes ~Jun 19 |
+| Week of Feb 23, 2026 | **75** | **7** | **9.3%** | **15** | **20.0%** | D30 + D60 complete ✅ |
+| Week of Mar 2, 2026 | **104** | **18** | **17.3%** | **24** | **23.1%** | D30 + D60 complete ✅ |
+| Week of Mar 9, 2026 | **198** | **28** | **14.1%** | 37 | 18.7% | D30 complete ✅; D60 closes May 8 |
+| Week of Mar 16, 2026 | **217** | **35** | **16.1%** | 38 | 17.5% | D30 complete ✅; D60 closes May 15 |
+| Week of Mar 23, 2026 | **226** | **52** | **23.0%** | 53 | 23.5% | D30 complete ✅; D60 closes May 22 |
+| Week of Mar 30, 2026 | **271** | **50** | **18.5%** | 50 | 18.5% | D30 complete ✅; D60 closes May 29 |
+| Week of Apr 6, 2026 | **405** | 73 | 18.0% | 73 | 18.0% | D30 closes May 6; D60 closes Jun 5 |
+| Week of Apr 13, 2026 | **445** | 59 | 13.3% | 59 | 13.3% | D30 closes May 13; D60 closes Jun 12 |
+| Week of Apr 20, 2026 | **71** | 4 | 5.6% | 4 | 5.6% | Partial week (pulled Apr 30); D60 closes Jun 19 |
 
 ---
 
@@ -103,7 +103,9 @@ Update once enough cohorts have hit their day-60 mark (first full read available
 
 No explicit target has been set for Blue attainment rate yet — this tracker establishes the baseline. Once pre-content cohorts are pulled, set a target for the first post-content cohorts.
 
-**Suggested target (set after baseline pull):** 5–10 percentage point lift in % Blue by Day 60 for cohorts who completed their first job after 4/30/2026.
+**Baseline (pre-content, Feb 23–Mar 2 cohorts, both D60-complete):** ~20–23% Blue by Day 60.
+
+**Suggested target:** 28–30% Blue by Day 60 for cohorts whose first job was after 4/30/2026 — a ~5–8 point lift from baseline. First clean read available when the Apr 28 cohort hits its D60 mark (~Jun 27).
 
 **Supporting signal to watch alongside this:**
 - Bettermode post views on tasks 9 + 10 (tier score + getting to Blue) — tracked in `data/tracking-bettermode-weekly.md`
