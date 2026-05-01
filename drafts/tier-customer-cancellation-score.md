@@ -1,4 +1,4 @@
-# When a Customer Cancels on You — What Happens to Your Tier Score
+﻿# (Tentative) When a Customer Cancels on You â€” What Happens to Your Tier Score
 
 You accepted a job. The customer cancelled it. Now you're wondering if that's going to count against you.
 
@@ -8,7 +8,7 @@ Here's what you need to know.
 
 ## Customer cancellations do not count against your tier score
 
-When a customer cancels or reschedules a job they booked, that event is not treated the same as a Pro cancellation. Your completion rate and tier score are based on what *you* control — not what customers do.
+When a customer cancels or reschedules a job they booked, that event is not treated the same as a Pro cancellation. Your completion rate and tier score are based on what *you* control â€” not what customers do.
 
 ---
 
@@ -16,15 +16,15 @@ When a customer cancels or reschedules a job they booked, that event is not trea
 
 Your tier score is affected when *you* cancel or drop a job you've already accepted. The platform distinguishes between:
 
-- **Customer-initiated cancellation** — customer ends the booking before the job is complete. Does not count against you.
-- **Pro-initiated drop** — you remove yourself from a job after accepting. This can affect your completion rate depending on timing and frequency.
+- **Customer-initiated cancellation** â€” customer ends the booking before the job is complete. Does not count against you.
+- **Pro-initiated drop** â€” you remove yourself from a job after accepting. This can affect your completion rate depending on timing and frequency.
 
 ---
 
 ## What to do when a customer cancels
 
 1. **Don't take any action to "cancel" the job yourself.** If the customer already cancelled on their end, the job will update in your app automatically.
-2. **Check your app for confirmation** — the job should show as cancelled or removed from your schedule.
+2. **Check your app for confirmation** â€” the job should show as cancelled or removed from your schedule.
 3. **If the job is still showing active** after a customer tells you they cancelled, contact support. Don't drop it yourself without documentation.
 
 ---

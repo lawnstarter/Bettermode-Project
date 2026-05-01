@@ -1,4 +1,4 @@
-# Long Grass — When to Claim the Upcharge and How to Make It Stick
+﻿# (Tentative) Long Grass â€” When to Claim the Upcharge and How to Make It Stick
 
 The long grass feature exists for a reason: grass that hasn't been cut in a while takes more time, more passes, and harder work on your equipment. The upcharge is how you get compensated for that.
 
@@ -8,7 +8,7 @@ But it only works if you use it correctly. Here's how.
 
 ## What counts as long grass
 
-Long grass on the platform means the grass is significantly above standard mowing height — typically over 6 inches, or a lawn that hasn't been cut in 4+ weeks. If you arrive and the lawn clearly needs multiple passes, extra trimming time, or poses equipment risk, that's a long grass situation.
+Long grass on the platform means the grass is significantly above standard mowing height â€” typically over 6 inches, or a lawn that hasn't been cut in 4+ weeks. If you arrive and the lawn clearly needs multiple passes, extra trimming time, or poses equipment risk, that's a long grass situation.
 
 "The customer said it was fine" doesn't change what you're looking at. Your on-the-ground assessment is what matters.
 
@@ -16,7 +16,7 @@ Long grass on the platform means the grass is significantly above standard mowin
 
 ## Before you start: document
 
-Take a photo of the grass before you touch it. Multiple angles if the overgrowth is uneven. Include something for scale if possible — a marker, the height against a fence post, anything that shows what you were dealing with.
+Take a photo of the grass before you touch it. Multiple angles if the overgrowth is uneven. Include something for scale if possible â€” a marker, the height against a fence post, anything that shows what you were dealing with.
 
 This photo is the difference between a successful upcharge claim and a disputed one. No photo means no evidence.
 
@@ -41,7 +41,7 @@ Disputes happen. If a customer pushes back on a long grass charge:
 
 - Your before-photos are your primary defense
 - Contact support with the photos and the timeline (when you arrived, what you found, when you submitted)
-- Let support handle the dispute — don't negotiate the charge directly with the customer
+- Let support handle the dispute â€” don't negotiate the charge directly with the customer
 
 If the upcharge is overturned without justification, you can escalate with support. Keep all your documentation.
 
@@ -51,7 +51,7 @@ If the upcharge is overturned without justification, you can escalate with suppo
 
 The honest reality: some Pros skip the long grass feature entirely because they've had upcharges disputed and overturned and didn't feel it was worth the friction. That's a real pattern, and it means money left on the table.
 
-The fix is documentation discipline. Every long grass job, before photos, every time. It's extra work upfront — but it's what makes the feature work for you instead of against you.
+The fix is documentation discipline. Every long grass job, before photos, every time. It's extra work upfront â€” but it's what makes the feature work for you instead of against you.
 
 ---
 
@@ -59,4 +59,4 @@ The fix is documentation discipline. Every long grass job, before photos, every 
 
 Long grass work is harder and should pay accordingly. The tool exists to make that happen. Use it, document it, and don't let a couple of disputed claims push you away from a feature you're entitled to use.
 
-*Questions about a specific upcharge situation? Post in the community — other Pros may have been through the same thing.*
+*Questions about a specific upcharge situation? Post in the community â€” other Pros may have been through the same thing.*
