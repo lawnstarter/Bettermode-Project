@@ -1,4 +1,4 @@
-# Bettermode Q1–Q2 2026 — Task List
+﻿# Bettermode Q1–Q2 2026 — Task List
 
 Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This repo is the source of truth — update Status as work moves.
 
@@ -163,3 +163,5 @@ Tracks all work items from the [strategy doc](bettermode-strategy-2026.md). This
 - **Pool Pro space (34–39)** is discovery-first — do not build before tasks 34–37 are complete.
 - After any content is published: update `data/bettermode-content-tracker.md` with the live link and status.
 - Update the Status column as tasks move: ⬜ Not started → 🔄 In progress → ✅ Draft done → ✅ Published
+- **OST — Tentative drafts (10 posts)** are in drafts/ with (Tentative) in the title. Sourced from the Pro Discovery Opportunity Solution Tree. Not yet in the publishing workflow — pending team review. See drafts/content-publishing-workflow.md for full list.
+

@@ -1,6 +1,6 @@
-# Bettermode Q1–Q2 2026 — Pro Community Strategy
+﻿# Bettermode Q1–Q2 2026 — Pro Community Strategy
 **Owner:** Kat Kennedy
-**Last updated:** April 2026
+**Last updated:** May 2026
 
 ---
 
@@ -40,10 +40,11 @@ Content ready for review or confirmation before publishing.
 | `drafts/ama-pro-peer.md` | Async AMA — Gold/Platinum Pro. Month 2. Peer credibility for new Pros. First choice: Scott Culala. |
 | `drafts/ama-marketing.md` | Async AMA — Marketing rep. Month 3. Google reviews, GBP, off-platform growth. |
 | `drafts/ama-gamification.md` | Async AMA — Callie + Vinicius (Gamification). Month 5. Challenges, Leaderboard, bonus payouts. |
-| `drafts/task-07` through `task-10` | First 60 Days series — final drafts saved in Bettermode, all four publishing simultaneously 5/1/2026 |
+| `drafts/task-07` through `task-10` | First 60 Days series — published 4/30/2026 in the First 60 Days space inside Pro Academy |
 | `drafts/task-11` through `task-14` | Field Guide posts — problem scenario content for Pros |
 | `drafts/task-15` through `task-18` | Tier explainer, Blue milestone recognition, monthly Q&A thread |
 | `drafts/zendesk-bettermode-reference.md` | Zendesk internal reference doc — maps ticket type to Bettermode post link. Draft for Matt's review. |
+| `drafts/tier-*`, `drafts/job-eval-*`, `drafts/pay-*` | OST — Tentative (10 drafts): tier & penalty clarity, job evaluation & scope, pay & pricing. Pending team review before entering publishing workflow. |
 
 ---
 
@@ -58,6 +59,7 @@ Reference files pulled from community analytics and internal research.
 | `data/bettermode-baseline.md` | Baseline community metrics for Q2 tracking |
 | `data/ama-theme-assignments.md` | Theme rationale for each AMA participant, with suggested sequencing |
 | `data/pro-discovery-figjam-insights.md` | Insights extracted from Steve's Pro Discovery FigJam board (top-tier Pro interviews) |
+| `data/pro-discovery-ost.md` | Opportunity Solution Tree compiled from Pro discovery interviews — 5 opportunity areas, 31 sub-opportunities with Pro evidence counts (n values). Source: Figma board node 203-3418. |
 | `data/off-platform-pro-signals.md` | Community signals around off-platform Pro growth (Google, Nextdoor, etc.) |
 | `data/zendesk-new-pro-baseline.md` | Zendesk support ticket baseline for new Pros |
 | `data/tracking-bettermode-weekly.md` | Weekly Bettermode engagement tracking template |
@@ -68,3 +70,5 @@ Reference files pulled from community analytics and internal research.
 ## Task List
 
 **`task-list.md`** — Full Q1–Q2 task list (39 items across 6 phases). Tracks status of all content, space setup, AMA series, Pool Pro discovery, and measurement tasks.
+
+
