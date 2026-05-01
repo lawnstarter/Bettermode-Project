@@ -1,4 +1,4 @@
-# Content Publishing Workflow
+﻿# Content Publishing Workflow
 Applies to: all Bettermode content (Pro Academy posts, Field Guide, First 60 Days, AMA FAQ compilations)
 Owner: Kat Kennedy
 
@@ -122,10 +122,10 @@ After publishing:
 
 | Post | File | Status |
 |------|------|--------|
-| Post 1 of 4 — Getting Your First Job: What to Expect | `drafts/task-07-getting-first-job.md` | `Final draft — publishing 5/1/2026` |
-| Post 2 of 4 — Your First Service: Photos, Long Grass, Completing Correctly | `drafts/task-08-your-first-service.md` | `Final draft — publishing 5/1/2026` |
-| Post 3 of 4 — Understanding Your Tier Score: What Moves It, What Doesn't | `drafts/task-09-understanding-tier-score.md` | `Final draft — publishing 5/1/2026` |
-| Post 4 of 4 — Getting to Blue: What It Means and How to Get There | `drafts/task-10-getting-to-blue.md` | `Final draft — publishing 5/1/2026` |
+| Post 1 of 4 — Getting Your First Job: What to Expect | `drafts/task-07-getting-first-job.md` | `Published 4/30/2026` |
+| Post 2 of 4 — Your First Service: Photos, Long Grass, Completing Correctly | `drafts/task-08-your-first-service.md` | `Published 4/30/2026` |
+| Post 3 of 4 — Understanding Your Tier Score: What Moves It, What Doesn't | `drafts/task-09-understanding-tier-score.md` | `Published 4/30/2026` |
+| Post 4 of 4 — Getting to Blue: What It Means and How to Get There | `drafts/task-10-getting-to-blue.md` | `Published 4/30/2026` |
 
 ### Field Guide Series
 
@@ -144,3 +144,32 @@ After publishing:
 | Your Tier, Your Rewards | `drafts/task-16-tiers-and-rewards.md` | `Draft done` |
 | Blue Attainment Milestone Recognition — Process + Template | `drafts/task-17-blue-milestone-recognition.md` | `Draft done` |
 | Monthly Q&A Thread: "What's Moving Your Score" — First Instance + Recurring Template | `drafts/task-18-monthly-qa-thread.md` | `Draft done` |
+
+### OST — Tentative
+
+*Drafts sourced from the Pro Discovery Opportunity Solution Tree (Figma board, node 203-3418). Pending team review with Ginger before entering the publishing workflow.*
+
+**Tier & Penalty Clarity**
+
+| Post | File | Status |
+|------|------|--------|
+| (Tentative) When a Customer Cancels on You — What Happens to Your Tier Score | `drafts/tier-customer-cancellation-score.md` | `Tentative — pending team review` |
+| (Tentative) Rescheduling for Weather or a Broken Mower — The Safe Way to Do It | `drafts/tier-rescheduling-weather-equipment.md` | `Tentative — pending team review` |
+| (Tentative) Customer Refused You at the Door — Here's What to Do Right Now | `drafts/tier-refused-at-door.md` | `Tentative — pending team review` |
+| (Tentative) The Tier Rules You Should Know Before Your First Dispute | `drafts/tier-rules-before-your-first-dispute.md` | `Tentative — pending team review` |
+
+**Job Evaluation & Scope**
+
+| Post | File | Status |
+|------|------|--------|
+| (Tentative) Before You Accept — How to Read a Job Listing and Spot Red Flags | `drafts/job-eval-reading-a-listing.md` | `Tentative — pending team review` |
+| (Tentative) You Have More Time Than You Think — How the Claim Window Actually Works | `drafts/job-eval-claim-window.md` | `Tentative — pending team review` |
+| (Tentative) Whose Yard Is It? How to Handle Property Line Questions | `drafts/job-eval-property-lines.md` | `Tentative — pending team review` |
+
+**Pay & Pricing**
+
+| Post | File | Status |
+|------|------|--------|
+| (Tentative) Long Grass — When to Claim the Upcharge and How to Make It Stick | `drafts/pay-long-grass-upcharge.md` | `Tentative — pending team review` |
+| (Tentative) How LawnStarter Pricing Works — What Customers Pay vs. What You Earn | `drafts/pay-pricing-transparency.md` | `Tentative — pending team review` |
+| (Tentative) Adding Services on the Spot — How to Re-Quote Through the App | `drafts/pay-requoting-additional-services.md` | `Tentative — pending team review` |
